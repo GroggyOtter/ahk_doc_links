@@ -1,0 +1,4082 @@
+!
+https://www.autohotkey.com/docs/v1/Variables.htm#unary
+
+!=
+https://www.autohotkey.com/docs/v1/Variables.htm#equal
+
+!==
+https://www.autohotkey.com/docs/v1/Variables.htm#equal
+
+#AllowSameLineComments
+https://www.autohotkey.com/docs/v1/lib/_AllowSameLineComments.htm
+
+#ClipboardTimeout
+https://www.autohotkey.com/docs/v1/lib/_ClipboardTimeout.htm
+
+#CommentFlag
+https://www.autohotkey.com/docs/v1/lib/_CommentFlag.htm
+
+#Delimiter
+https://www.autohotkey.com/docs/v1/lib/_EscapeChar.htm#Delimiter
+
+#DerefChar
+https://www.autohotkey.com/docs/v1/lib/_EscapeChar.htm#DerefChar
+
+#ErrorStdOut
+https://www.autohotkey.com/docs/v1/lib/_ErrorStdOut.htm
+
+#EscapeChar
+https://www.autohotkey.com/docs/v1/lib/_EscapeChar.htm
+
+#HotkeyInterval
+https://www.autohotkey.com/docs/v1/lib/_HotkeyInterval.htm
+
+#HotkeyModifierTimeout
+https://www.autohotkey.com/docs/v1/lib/_HotkeyModifierTimeout.htm
+
+#Hotstring
+https://www.autohotkey.com/docs/v1/lib/_Hotstring.htm
+
+#If
+https://www.autohotkey.com/docs/v1/lib/_If.htm
+
+#IfTimeOut
+https://www.autohotkey.com/docs/v1/lib/_IfTimeout.htm
+
+#IfWin[Not]Active
+https://www.autohotkey.com/docs/v1/lib/_IfWinActive.htm
+
+#IfWin[Not]Exist
+https://www.autohotkey.com/docs/v1/lib/_IfWinActive.htm
+
+#IfWinActive
+https://www.autohotkey.com/docs/v1/lib/_IfWinActive.htm
+
+#IfWinExist
+https://www.autohotkey.com/docs/v1/lib/_IfWinActive.htm
+
+#IfWinNotActive
+https://www.autohotkey.com/docs/v1/lib/_IfWinActive.htm
+
+#IfWinNotExist
+https://www.autohotkey.com/docs/v1/lib/_IfWinActive.htm
+
+#Include
+https://www.autohotkey.com/docs/v1/lib/_Include.htm
+
+#Include[Again]
+https://www.autohotkey.com/docs/v1/lib/_Include.htm
+
+#IncludeAgain
+https://www.autohotkey.com/docs/v1/lib/_Include.htm
+
+#InputLevel
+https://www.autohotkey.com/docs/v1/lib/_InputLevel.htm
+
+#InstallKeybdHook
+https://www.autohotkey.com/docs/v1/lib/_InstallKeybdHook.htm
+
+#InstallMouseHook
+https://www.autohotkey.com/docs/v1/lib/_InstallMouseHook.htm
+
+#KeyHistory
+https://www.autohotkey.com/docs/v1/lib/_KeyHistory.htm
+
+#LTrim
+https://www.autohotkey.com/docs/v1/Scripts.htm#LTrim
+
+#MaxHotkeysPerInterval
+https://www.autohotkey.com/docs/v1/lib/_MaxHotkeysPerInterval.htm
+
+#MaxMem
+https://www.autohotkey.com/docs/v1/lib/_MaxMem.htm
+
+#MaxThreads
+https://www.autohotkey.com/docs/v1/lib/_MaxThreads.htm
+
+#MaxThreadsBuffer
+https://www.autohotkey.com/docs/v1/lib/_MaxThreadsBuffer.htm
+
+#MaxThreadsPerHotkey
+https://www.autohotkey.com/docs/v1/lib/_MaxThreadsPerHotkey.htm
+
+#MenuMaskKey
+https://www.autohotkey.com/docs/v1/lib/_MenuMaskKey.htm
+
+#NoEnv
+https://www.autohotkey.com/docs/v1/lib/_NoEnv.htm
+
+#NoTrayIcon
+https://www.autohotkey.com/docs/v1/lib/_NoTrayIcon.htm
+
+#Persistent
+https://www.autohotkey.com/docs/v1/lib/_Persistent.htm
+
+#Requires
+https://www.autohotkey.com/docs/v1/lib/_Requires.htm
+
+#SingleInstance
+https://www.autohotkey.com/docs/v1/lib/_SingleInstance.htm
+
+#UseHook
+https://www.autohotkey.com/docs/v1/lib/_UseHook.htm
+
+#Warn
+https://www.autohotkey.com/docs/v1/lib/_Warn.htm
+
+#WinActivateForce
+https://www.autohotkey.com/docs/v1/lib/_WinActivateForce.htm
+
+&amp;
+https://www.autohotkey.com/docs/v1/Variables.htm#unary
+
+&amp; (bitwise-and)
+https://www.autohotkey.com/docs/v1/Variables.htm#bitwise
+
+&amp;&amp;
+https://www.autohotkey.com/docs/v1/Variables.htm#and
+
+&amp;=
+https://www.autohotkey.com/docs/v1/Variables.htm#AssignOp
+
+*
+https://www.autohotkey.com/docs/v1/Variables.htm#MulDiv
+
+* (dereference)
+https://www.autohotkey.com/docs/v1/Variables.htm#unary
+
+**
+https://www.autohotkey.com/docs/v1/Variables.htm#pow
+
+*=
+https://www.autohotkey.com/docs/v1/Variables.htm#AssignOp
+
++
+https://www.autohotkey.com/docs/v1/Variables.htm#AddSub
+
+++
+https://www.autohotkey.com/docs/v1/Variables.htm#IncDec
+
++=
+https://www.autohotkey.com/docs/v1/Variables.htm#AssignOp
+
+,
+https://www.autohotkey.com/docs/v1/Variables.htm#comma
+
+-
+https://www.autohotkey.com/docs/v1/Variables.htm#AddSub
+
+- (sign)
+https://www.autohotkey.com/docs/v1/Variables.htm#unary
+
+--
+https://www.autohotkey.com/docs/v1/Variables.htm#IncDec
+
+-=
+https://www.autohotkey.com/docs/v1/Variables.htm#AssignOp
+
+.
+https://www.autohotkey.com/docs/v1/Variables.htm#concat
+
+.=
+https://www.autohotkey.com/docs/v1/Variables.htm#AssignOp
+
+/
+https://www.autohotkey.com/docs/v1/Variables.htm#MulDiv
+
+//
+https://www.autohotkey.com/docs/v1/Variables.htm#MulDiv
+
+//=
+https://www.autohotkey.com/docs/v1/Variables.htm#AssignOp
+
+/=
+https://www.autohotkey.com/docs/v1/Variables.htm#AssignOp
+
+:
+https://www.autohotkey.com/docs/v1/Variables.htm#ternary
+
+:=
+https://www.autohotkey.com/docs/v1/lib/SetExpression.htm
+
+;@Ahk2Exe-
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm
+
+<
+https://www.autohotkey.com/docs/v1/Variables.htm#compare
+
+<<
+https://www.autohotkey.com/docs/v1/Variables.htm#bitwise
+
+<<=
+https://www.autohotkey.com/docs/v1/Variables.htm#AssignOp
+
+<=
+https://www.autohotkey.com/docs/v1/Variables.htm#compare
+
+<>
+https://www.autohotkey.com/docs/v1/Variables.htm#equal
+
+=
+https://www.autohotkey.com/docs/v1/Variables.htm#equal
+
+= (legacy assignment)
+https://www.autohotkey.com/docs/v1/lib/SetEnv.htm
+
+==
+https://www.autohotkey.com/docs/v1/Variables.htm#equal
+
+>
+https://www.autohotkey.com/docs/v1/Variables.htm#compare
+
+>=
+https://www.autohotkey.com/docs/v1/Variables.htm#compare
+
+>>
+https://www.autohotkey.com/docs/v1/Variables.htm#bitwise
+
+>>=
+https://www.autohotkey.com/docs/v1/Variables.htm#AssignOp
+
+?
+https://www.autohotkey.com/docs/v1/Variables.htm#ternary
+
+@Ahk2Exe-
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm
+
+^
+https://www.autohotkey.com/docs/v1/Variables.htm#bitwise
+
+^=
+https://www.autohotkey.com/docs/v1/Variables.htm#AssignOp
+
+__Call meta-function" class="selected
+https://www.autohotkey.com/docs/v1/Objects.htm#Meta_Functions
+
+__Delete meta-function
+https://www.autohotkey.com/docs/v1/Objects.htm#Custom_NewDelete
+
+__Get meta-function
+https://www.autohotkey.com/docs/v1/Objects.htm#Meta_Functions
+
+__Handle property (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#__Handle
+
+__Init method
+https://www.autohotkey.com/docs/v1/Objects.htm#Custom_Classes_var
+
+__New meta-function
+https://www.autohotkey.com/docs/v1/Objects.htm#Custom_NewDelete
+
+__Set meta-function
+https://www.autohotkey.com/docs/v1/Objects.htm#Meta_Functions
+
+_NewEnum method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#NewEnum
+
+A_AhkPath
+https://www.autohotkey.com/docs/v1/Variables.htm#AhkPath
+
+A_AhkVersion
+https://www.autohotkey.com/docs/v1/Variables.htm#AhkVersion
+
+A_AppData
+https://www.autohotkey.com/docs/v1/Variables.htm#AppData
+
+A_AppDataCommon
+https://www.autohotkey.com/docs/v1/Variables.htm#AppDataCommon
+
+A_Args
+https://www.autohotkey.com/docs/v1/Variables.htm#Args
+
+A_AutoTrim
+https://www.autohotkey.com/docs/v1/Variables.htm#AutoTrim
+
+A_BasePath (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#BasePath
+
+A_BatchLines
+https://www.autohotkey.com/docs/v1/Variables.htm#BatchLines
+
+A_CaretX
+https://www.autohotkey.com/docs/v1/Variables.htm#Caret
+
+A_CaretY
+https://www.autohotkey.com/docs/v1/Variables.htm#Caret
+
+A_Clipboard
+https://www.autohotkey.com/docs/v1/misc/Clipboard.htm
+
+A_ComputerName
+https://www.autohotkey.com/docs/v1/Variables.htm#ComputerName
+
+A_ComSpec
+https://www.autohotkey.com/docs/v1/Variables.htm#ComSpec
+
+A_ControlDelay
+https://www.autohotkey.com/docs/v1/Variables.htm#ControlDelay
+
+A_CoordModeCaret
+https://www.autohotkey.com/docs/v1/Variables.htm#CoordMode
+
+A_CoordModeMenu
+https://www.autohotkey.com/docs/v1/Variables.htm#CoordMode
+
+A_CoordModeMouse
+https://www.autohotkey.com/docs/v1/Variables.htm#CoordMode
+
+A_CoordModePixel
+https://www.autohotkey.com/docs/v1/Variables.htm#CoordMode
+
+A_CoordModeToolTip
+https://www.autohotkey.com/docs/v1/Variables.htm#CoordMode
+
+A_Cursor
+https://www.autohotkey.com/docs/v1/Variables.htm#Cursor
+
+A_DD
+https://www.autohotkey.com/docs/v1/Variables.htm#DD
+
+A_DDD
+https://www.autohotkey.com/docs/v1/Variables.htm#DDDD
+
+A_DDDD
+https://www.autohotkey.com/docs/v1/Variables.htm#DDDD
+
+A_DefaultGui
+https://www.autohotkey.com/docs/v1/Variables.htm#DefaultGui
+
+A_DefaultListView
+https://www.autohotkey.com/docs/v1/Variables.htm#DefaultListView
+
+A_DefaultMouseSpeed
+https://www.autohotkey.com/docs/v1/Variables.htm#DefaultMouseSpeed
+
+A_DefaultTreeView
+https://www.autohotkey.com/docs/v1/Variables.htm#DefaultTreeView
+
+A_Desktop
+https://www.autohotkey.com/docs/v1/Variables.htm#Desktop
+
+A_DesktopCommon
+https://www.autohotkey.com/docs/v1/Variables.htm#DesktopCommon
+
+A_DetectHiddenText
+https://www.autohotkey.com/docs/v1/Variables.htm#DetectHiddenText
+
+A_DetectHiddenWindows
+https://www.autohotkey.com/docs/v1/Variables.htm#DetectHiddenWindows
+
+A_EndChar
+https://www.autohotkey.com/docs/v1/Variables.htm#EndChar
+
+A_EventInfo
+https://www.autohotkey.com/docs/v1/Variables.htm#EventInfo
+
+A_ExitReason
+https://www.autohotkey.com/docs/v1/Variables.htm#ExitReason
+
+A_FileEncoding
+https://www.autohotkey.com/docs/v1/Variables.htm#FileEncoding
+
+A_FormatFloat
+https://www.autohotkey.com/docs/v1/Variables.htm#FormatFloat
+
+A_FormatInteger
+https://www.autohotkey.com/docs/v1/Variables.htm#FormatInteger
+
+A_Gui
+https://www.autohotkey.com/docs/v1/Variables.htm#Gui
+
+A_GuiControl
+https://www.autohotkey.com/docs/v1/Variables.htm#GuiControl
+
+A_GuiControlEvent
+https://www.autohotkey.com/docs/v1/Variables.htm#GuiControlEvent
+
+A_GuiEvent
+https://www.autohotkey.com/docs/v1/Variables.htm#GuiEvent
+
+A_GuiHeight
+https://www.autohotkey.com/docs/v1/Variables.htm#GuiWidth
+
+A_GuiWidth
+https://www.autohotkey.com/docs/v1/Variables.htm#GuiWidth
+
+A_GuiX
+https://www.autohotkey.com/docs/v1/Variables.htm#GuiX
+
+A_GuiY
+https://www.autohotkey.com/docs/v1/Variables.htm#GuiY
+
+A_Hour
+https://www.autohotkey.com/docs/v1/Variables.htm#Hour
+
+A_IconFile
+https://www.autohotkey.com/docs/v1/Variables.htm#IconFile
+
+A_IconHidden
+https://www.autohotkey.com/docs/v1/Variables.htm#IconHidden
+
+A_IconNumber
+https://www.autohotkey.com/docs/v1/Variables.htm#IconNumber
+
+A_IconTip
+https://www.autohotkey.com/docs/v1/Variables.htm#IconTip
+
+A_Index
+https://www.autohotkey.com/docs/v1/lib/Loop.htm
+
+A_InitialWorkingDir
+https://www.autohotkey.com/docs/v1/Variables.htm#InitialWorkingDir
+
+A_IPAddress1
+https://www.autohotkey.com/docs/v1/Variables.htm#IPAddress
+
+A_IPAddress2
+https://www.autohotkey.com/docs/v1/Variables.htm#IPAddress
+
+A_IPAddress3
+https://www.autohotkey.com/docs/v1/Variables.htm#IPAddress
+
+A_IPAddress4
+https://www.autohotkey.com/docs/v1/Variables.htm#IPAddress
+
+A_Is64bitOS
+https://www.autohotkey.com/docs/v1/Variables.htm#Is64bitOS
+
+A_IsAdmin
+https://www.autohotkey.com/docs/v1/Variables.htm#IsAdmin
+
+A_IsCompiled
+https://www.autohotkey.com/docs/v1/Variables.htm#IsCompiled
+
+A_IsCritical
+https://www.autohotkey.com/docs/v1/Variables.htm#IsCritical
+
+A_IsPaused
+https://www.autohotkey.com/docs/v1/Variables.htm#IsPaused
+
+A_IsSuspended
+https://www.autohotkey.com/docs/v1/Variables.htm#IsSuspended
+
+A_IsUnicode
+https://www.autohotkey.com/docs/v1/Variables.htm#IsUnicode
+
+A_KeyDelay
+https://www.autohotkey.com/docs/v1/Variables.htm#KeyDelay
+
+A_KeyDelayPlay
+https://www.autohotkey.com/docs/v1/Variables.htm#KeyDelayPlay
+
+A_KeyDuration
+https://www.autohotkey.com/docs/v1/Variables.htm#KeyDelay
+
+A_KeyDurationPlay
+https://www.autohotkey.com/docs/v1/Variables.htm#KeyDelayPlay
+
+A_Language
+https://www.autohotkey.com/docs/v1/Variables.htm#Language
+
+A_Language Values
+https://www.autohotkey.com/docs/v1/misc/Languages.htm
+
+A_LastError
+https://www.autohotkey.com/docs/v1/Variables.htm#LastError
+
+A_LineFile
+https://www.autohotkey.com/docs/v1/Variables.htm#LineFile
+
+A_LineNumber
+https://www.autohotkey.com/docs/v1/Variables.htm#LineNumber
+
+A_ListLines
+https://www.autohotkey.com/docs/v1/Variables.htm#ListLines
+
+A_LoopField
+https://www.autohotkey.com/docs/v1/lib/LoopParse.htm#LoopField
+
+A_LoopFileAttrib
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileAttrib
+
+A_LoopFileDir
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileDir
+
+A_LoopFileExt
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileExt
+
+A_LoopFileFullPath
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileFullPath
+
+A_LoopFileLongPath
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileLongPath
+
+A_LoopFileName
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileName
+
+A_LoopFilePath
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileFullPath
+
+A_LoopFileShortName
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileShortName
+
+A_LoopFileShortPath
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileShortPath
+
+A_LoopFileSize
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileSize
+
+A_LoopFileSizeKB
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileSizeKB
+
+A_LoopFileSizeMB
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileSizeMB
+
+A_LoopFileTimeAccessed
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileTimeAccessed
+
+A_LoopFileTimeCreated
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileTimeCreated
+
+A_LoopFileTimeModified
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileTimeModified
+
+A_LoopReadLine
+https://www.autohotkey.com/docs/v1/lib/LoopReadFile.htm#LoopReadLine
+
+A_LoopRegKey
+https://www.autohotkey.com/docs/v1/lib/LoopReg.htm#vars
+
+A_LoopRegName
+https://www.autohotkey.com/docs/v1/lib/LoopReg.htm#vars
+
+A_LoopRegSubKey
+https://www.autohotkey.com/docs/v1/lib/LoopReg.htm#vars
+
+A_LoopRegTimeModified
+https://www.autohotkey.com/docs/v1/lib/LoopReg.htm#vars
+
+A_LoopRegType
+https://www.autohotkey.com/docs/v1/lib/LoopReg.htm#vars
+
+A_MDay
+https://www.autohotkey.com/docs/v1/Variables.htm#DD
+
+A_Min
+https://www.autohotkey.com/docs/v1/Variables.htm#Min
+
+A_MM
+https://www.autohotkey.com/docs/v1/Variables.htm#MM
+
+A_MMM
+https://www.autohotkey.com/docs/v1/Variables.htm#MMM
+
+A_MMMM
+https://www.autohotkey.com/docs/v1/Variables.htm#MMMM
+
+A_Mon
+https://www.autohotkey.com/docs/v1/Variables.htm#MM
+
+A_MouseDelay
+https://www.autohotkey.com/docs/v1/Variables.htm#MouseDelay
+
+A_MouseDelayPlay
+https://www.autohotkey.com/docs/v1/Variables.htm#MouseDelay
+
+A_MSec
+https://www.autohotkey.com/docs/v1/Variables.htm#MSec
+
+A_MyDocuments
+https://www.autohotkey.com/docs/v1/Variables.htm#MyDocuments
+
+A_Now
+https://www.autohotkey.com/docs/v1/Variables.htm#Now
+
+A_NowUTC
+https://www.autohotkey.com/docs/v1/Variables.htm#NowUTC
+
+A_NumBatchLines
+https://www.autohotkey.com/docs/v1/Variables.htm#BatchLines
+
+A_OSType
+https://www.autohotkey.com/docs/v1/Variables.htm#OSType
+
+A_OSVersion
+https://www.autohotkey.com/docs/v1/Variables.htm#OSVersion
+
+A_PriorHotkey
+https://www.autohotkey.com/docs/v1/Variables.htm#PriorHotkey
+
+A_PriorKey
+https://www.autohotkey.com/docs/v1/Variables.htm#PriorKey
+
+A_PriorLine (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#PriorLine
+
+A_ProgramFiles
+https://www.autohotkey.com/docs/v1/Variables.htm#ProgramFiles
+
+A_Programs
+https://www.autohotkey.com/docs/v1/Variables.htm#Programs
+
+A_ProgramsCommon
+https://www.autohotkey.com/docs/v1/Variables.htm#ProgramsCommon
+
+A_PtrSize
+https://www.autohotkey.com/docs/v1/Variables.htm#PtrSize
+
+A_RegView
+https://www.autohotkey.com/docs/v1/Variables.htm#RegView
+
+A_ScreenDPI
+https://www.autohotkey.com/docs/v1/Variables.htm#ScreenDPI
+
+A_ScreenHeight
+https://www.autohotkey.com/docs/v1/Variables.htm#Screen
+
+A_ScreenWidth
+https://www.autohotkey.com/docs/v1/Variables.htm#Screen
+
+A_ScriptDir
+https://www.autohotkey.com/docs/v1/Variables.htm#ScriptDir
+
+A_ScriptFullPath
+https://www.autohotkey.com/docs/v1/Variables.htm#ScriptFullPath
+
+A_ScriptHwnd
+https://www.autohotkey.com/docs/v1/Variables.htm#ScriptHwnd
+
+A_ScriptName
+https://www.autohotkey.com/docs/v1/Variables.htm#ScriptName
+
+A_Sec
+https://www.autohotkey.com/docs/v1/Variables.htm#Sec
+
+A_SendLevel
+https://www.autohotkey.com/docs/v1/Variables.htm#SendLevel
+
+A_SendMode
+https://www.autohotkey.com/docs/v1/Variables.htm#SendMode
+
+A_Space
+https://www.autohotkey.com/docs/v1/Variables.htm#Space
+
+A_StartMenu
+https://www.autohotkey.com/docs/v1/Variables.htm#StartMenu
+
+A_StartMenuCommon
+https://www.autohotkey.com/docs/v1/Variables.htm#StartMenuCommon
+
+A_Startup
+https://www.autohotkey.com/docs/v1/Variables.htm#Startup
+
+A_StartupCommon
+https://www.autohotkey.com/docs/v1/Variables.htm#StartupCommon
+
+A_StoreCapsLockMode
+https://www.autohotkey.com/docs/v1/Variables.htm#StoreCapslockMode
+
+A_StringCaseSense
+https://www.autohotkey.com/docs/v1/Variables.htm#StringCaseSense
+
+A_Tab
+https://www.autohotkey.com/docs/v1/Variables.htm#Tab
+
+A_Temp
+https://www.autohotkey.com/docs/v1/Variables.htm#Temp
+
+A_ThisFunc
+https://www.autohotkey.com/docs/v1/Variables.htm#ThisFunc
+
+A_ThisHotkey
+https://www.autohotkey.com/docs/v1/Variables.htm#ThisHotkey
+
+A_ThisLabel
+https://www.autohotkey.com/docs/v1/Variables.htm#ThisLabel
+
+A_ThisMenu
+https://www.autohotkey.com/docs/v1/Variables.htm#ThisMenu
+
+A_ThisMenuItem
+https://www.autohotkey.com/docs/v1/Variables.htm#ThisMenuItem
+
+A_ThisMenuItemPos
+https://www.autohotkey.com/docs/v1/Variables.htm#ThisMenuItemPos
+
+A_TickCount
+https://www.autohotkey.com/docs/v1/Variables.htm#TickCount
+
+A_TimeIdle
+https://www.autohotkey.com/docs/v1/Variables.htm#TimeIdle
+
+A_TimeIdleKeyboard
+https://www.autohotkey.com/docs/v1/Variables.htm#TimeIdleKeyboard
+
+A_TimeIdleMouse
+https://www.autohotkey.com/docs/v1/Variables.htm#TimeIdleMouse
+
+A_TimeIdlePhysical
+https://www.autohotkey.com/docs/v1/Variables.htm#TimeIdlePhysical
+
+A_TimeSincePriorHotkey
+https://www.autohotkey.com/docs/v1/Variables.htm#TimeSincePriorHotkey
+
+A_TimeSinceThisHotkey
+https://www.autohotkey.com/docs/v1/Variables.htm#TimeSinceThisHotkey
+
+A_TitleMatchMode
+https://www.autohotkey.com/docs/v1/Variables.htm#TitleMatchMode
+
+A_TitleMatchModeSpeed
+https://www.autohotkey.com/docs/v1/Variables.htm#TitleMatchModeSpeed
+
+A_UserName
+https://www.autohotkey.com/docs/v1/Variables.htm#UserName
+
+A_WDay
+https://www.autohotkey.com/docs/v1/Variables.htm#WDay
+
+A_WinDelay
+https://www.autohotkey.com/docs/v1/Variables.htm#WinDelay
+
+A_WinDir
+https://www.autohotkey.com/docs/v1/Variables.htm#WinDir
+
+A_WorkFileName (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#WorkFileName
+
+A_WorkingDir
+https://www.autohotkey.com/docs/v1/Variables.htm#WorkingDir
+
+A_YDay
+https://www.autohotkey.com/docs/v1/Variables.htm#YDay
+
+A_Year
+https://www.autohotkey.com/docs/v1/Variables.htm#YYYY
+
+A_YWeek
+https://www.autohotkey.com/docs/v1/Variables.htm#YWeek
+
+A_YYYY
+https://www.autohotkey.com/docs/v1/Variables.htm#YYYY
+
+abbreviation expansion
+https://www.autohotkey.com/docs/v1/Hotstrings.htm
+
+Abs (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Abs
+
+Abs()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Abs
+
+absolute value, abs()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Abs
+
+Acknowledgements
+https://www.autohotkey.com/docs/v1/#Acknowledgements
+
+ACos (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#ACos
+
+ACos()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#ACos
+
+activate a window
+https://www.autohotkey.com/docs/v1/lib/WinActivate.htm
+
+ActiveX controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#ActiveX
+
+add
+https://www.autohotkey.com/docs/v1/lib/EnvAdd.htm
+
+Add (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#Add
+
+Add (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Add
+
+Add (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Add
+
+AddResource directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#AddResource
+
+Address of a variable
+https://www.autohotkey.com/docs/v1/Variables.htm#amp
+
+administrator privileges for scripts
+https://www.autohotkey.com/docs/v1/Variables.htm#RequireAdmin
+
+Ahk2Exe
+https://www.autohotkey.com/docs/v1/Scripts.htm#ahk2exe
+
+ahk_class
+https://www.autohotkey.com/docs/v1/misc/WinTitle.htm#ahk_class
+
+ahk_exe
+https://www.autohotkey.com/docs/v1/misc/WinTitle.htm#ahk_exe
+
+ahk_group
+https://www.autohotkey.com/docs/v1/misc/WinTitle.htm#ahk_group
+
+ahk_id
+https://www.autohotkey.com/docs/v1/misc/WinTitle.htm#ahk_id
+
+ahk_pid
+https://www.autohotkey.com/docs/v1/misc/WinTitle.htm#ahk_pid
+
+AllowSameLineComments
+https://www.autohotkey.com/docs/v1/lib/_AllowSameLineComments.htm
+
+alnum
+https://www.autohotkey.com/docs/v1/lib/IfIs.htm
+
+alpha
+https://www.autohotkey.com/docs/v1/lib/IfIs.htm
+
+AltGr
+https://www.autohotkey.com/docs/v1/Hotkeys.htm#AltGr
+
+AltTab
+https://www.autohotkey.com/docs/v1/Hotkeys.htm#alttab
+
+AlwaysOnTop (WinSet)
+https://www.autohotkey.com/docs/v1/lib/WinSet.htm#AlwaysOnTop
+
+and
+https://www.autohotkey.com/docs/v1/Variables.htm#and
+
+append to file
+https://www.autohotkey.com/docs/v1/lib/FileAppend.htm
+
+Array()
+https://www.autohotkey.com/docs/v1/Objects.htm#Usage_Simple_Arrays
+
+Arrays
+https://www.autohotkey.com/docs/v1/misc/Arrays.htm
+
+Asc (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Asc
+
+Asc()
+https://www.autohotkey.com/docs/v1/lib/Asc.htm
+
+ASCII conversion
+https://www.autohotkey.com/docs/v1/lib/Transform.htm
+
+ASin (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#ASin
+
+ASin()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#ASin
+
+ASin() / ACos() / ATan()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#ASin
+
+assigning values to variables
+https://www.autohotkey.com/docs/v1/Variables.htm#AssignOp
+
+ATan (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#ATan
+
+ATan()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#ATan
+
+AtEOF property (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#AtEOF
+
+attributes of files and folders
+https://www.autohotkey.com/docs/v1/lib/FileGetAttrib.htm
+
+auto-execute section
+https://www.autohotkey.com/docs/v1/Scripts.htm#auto
+
+auto-replace text as you type it
+https://www.autohotkey.com/docs/v1/Hotstrings.htm
+
+AutoIt v2 compatibility
+https://www.autohotkey.com/docs/v1/misc/AutoIt2Compat.htm
+
+AutoTrim
+https://www.autohotkey.com/docs/v1/lib/AutoTrim.htm
+
+BackspaceIsUndo property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#BackspaceIsUndo
+
+balloon tip
+https://www.autohotkey.com/docs/v1/lib/TrayTip.htm
+
+base (Objects)
+https://www.autohotkey.com/docs/v1/Objects.htm#Custom_Objects
+
+Base directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#Bin
+
+Base property (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Base
+
+beep the PC speaker
+https://www.autohotkey.com/docs/v1/lib/SoundBeep.htm
+
+between (check if var between two values)
+https://www.autohotkey.com/docs/v1/lib/IfBetween.htm
+
+Bin directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#Bin
+
+Bind method (Func)
+https://www.autohotkey.com/docs/v1/lib/Func.htm#Bind
+
+BinMod script (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#PostExec
+
+BitAnd (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#BitAnd
+
+BitNot (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#BitNot
+
+BitOr (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#BitOr
+
+BitShiftLeft (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#BitShiftLeft
+
+BitShiftRight (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#BitShiftRight
+
+bitwise operations
+https://www.autohotkey.com/docs/v1/Variables.htm#bitwise
+
+BitXOr (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#BitXOr
+
+blind-mode Send
+https://www.autohotkey.com/docs/v1/lib/Send.htm#blind
+
+BlockInput
+https://www.autohotkey.com/docs/v1/lib/BlockInput.htm
+
+blocks (lines enclosed in braces)
+https://www.autohotkey.com/docs/v1/lib/Block.htm
+
+boolean (concepts)
+https://www.autohotkey.com/docs/v1/Concepts.htm#boolean
+
+Bottom (WinSet)
+https://www.autohotkey.com/docs/v1/lib/WinSet.htm#Bottom
+
+BoundFunc object
+https://www.autohotkey.com/docs/v1/misc/Functor.htm#BoundFunc
+
+Break
+https://www.autohotkey.com/docs/v1/lib/Break.htm
+
+buffering
+https://www.autohotkey.com/docs/v1/lib/_MaxThreadsBuffer.htm
+
+built-in functions
+https://www.autohotkey.com/docs/v1/Functions.htm#BuiltIn
+
+built-in variables
+https://www.autohotkey.com/docs/v1/Variables.htm#BuiltIn
+
+Button controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#Button
+
+button list (mouse and joystick)
+https://www.autohotkey.com/docs/v1/KeyList.htm
+
+button state
+https://www.autohotkey.com/docs/v1/lib/GetKeyState.htm#function
+
+ByRef
+https://www.autohotkey.com/docs/v1/Functions.htm#ByRef
+
+caching (concepts)
+https://www.autohotkey.com/docs/v1/Concepts.htm#caching
+
+Call method (Func)
+https://www.autohotkey.com/docs/v1/lib/Func.htm#Call
+
+callbacks
+https://www.autohotkey.com/docs/v1/lib/RegisterCallback.htm
+
+Cancel (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Cancel
+
+Capacity (DriveGet)
+https://www.autohotkey.com/docs/v1/lib/DriveGet.htm#Capacity
+
+Case
+https://www.autohotkey.com/docs/v1/lib/Switch.htm
+
+case sensitive strings
+https://www.autohotkey.com/docs/v1/lib/StringCaseSense.htm
+
+CaseSensitive property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#CaseSensitive
+
+Catch
+https://www.autohotkey.com/docs/v1/lib/Catch.htm
+
+Ceil (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Ceil
+
+Ceil()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Ceil
+
+Changelog
+https://www.autohotkey.com/docs/v1/AHKL_ChangeLog.htm
+
+Check (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#Check
+
+Check (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Check
+
+Checkbox controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#Checkbox
+
+Checked (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#Checked
+
+Choice (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#Choice
+
+Choose (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#Choose
+
+Choose (GuiControl)
+https://www.autohotkey.com/docs/v1/lib/GuiControl.htm#Choose
+
+choose file
+https://www.autohotkey.com/docs/v1/lib/FileSelectFile.htm
+
+choose folder
+https://www.autohotkey.com/docs/v1/lib/FileSelectFolder.htm
+
+ChooseString (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#ChooseString
+
+ChooseString (GuiControl)
+https://www.autohotkey.com/docs/v1/lib/GuiControl.htm#ChooseString
+
+Chr (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Chr
+
+Chr()
+https://www.autohotkey.com/docs/v1/lib/Chr.htm
+
+class
+https://www.autohotkey.com/docs/v1/Objects.htm#Custom_Classes
+
+class (Objects)
+https://www.autohotkey.com/docs/v1/Objects.htm#Custom_Classes
+
+class ... extends
+https://www.autohotkey.com/docs/v1/Objects.htm#Custom_Classes
+
+class name of a window
+https://www.autohotkey.com/docs/v1/misc/WinTitle.htm#ahk_class
+
+Click
+https://www.autohotkey.com/docs/v1/lib/Click.htm
+
+Click (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Click
+
+Click a mouse button
+https://www.autohotkey.com/docs/v1/lib/Click.htm
+
+Clipboard
+https://www.autohotkey.com/docs/v1/misc/Clipboard.htm
+
+ClipboardAll
+https://www.autohotkey.com/docs/v1/misc/Clipboard.htm#ClipboardAll
+
+ClipWait
+https://www.autohotkey.com/docs/v1/lib/ClipWait.htm
+
+Clone method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Clone
+
+Close (Process)
+https://www.autohotkey.com/docs/v1/lib/Process.htm#Close
+
+close a window
+https://www.autohotkey.com/docs/v1/lib/WinClose.htm
+
+Close method (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#Close
+
+CLSID List (My Computer, etc.)
+https://www.autohotkey.com/docs/v1/misc/CLSID-List.htm
+
+Color (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Color
+
+Color (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Color
+
+color names, RGB/HTML
+https://www.autohotkey.com/docs/v1/lib/Progress.htm#colors
+
+color of pixels
+https://www.autohotkey.com/docs/v1/lib/PixelSearch.htm
+
+COM
+https://www.autohotkey.com/docs/v1/lib/ComObjCreate.htm
+
+ComboBox controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#ComboBox
+
+comma operator (multi-statement)
+https://www.autohotkey.com/docs/v1/Variables.htm#comma
+
+Command and Function Index
+https://www.autohotkey.com/docs/v1/lib/index.htm
+
+command line parameters
+https://www.autohotkey.com/docs/v1/Scripts.htm#cmd
+
+commands, alphabetical list
+https://www.autohotkey.com/docs/v1/lib/index.htm
+
+comments in scripts
+https://www.autohotkey.com/docs/v1/Language.htm#comments
+
+ComObjActive()
+https://www.autohotkey.com/docs/v1/lib/ComObjActive.htm
+
+ComObjArray()
+https://www.autohotkey.com/docs/v1/lib/ComObjArray.htm
+
+ComObjConnect()
+https://www.autohotkey.com/docs/v1/lib/ComObjConnect.htm
+
+ComObjCreate()
+https://www.autohotkey.com/docs/v1/lib/ComObjCreate.htm
+
+ComObject()
+https://www.autohotkey.com/docs/v1/lib/ComObjActive.htm
+
+ComObjError()
+https://www.autohotkey.com/docs/v1/lib/ComObjError.htm
+
+ComObjFlags()
+https://www.autohotkey.com/docs/v1/lib/ComObjFlags.htm
+
+ComObjGet()
+https://www.autohotkey.com/docs/v1/lib/ComObjGet.htm
+
+ComObjQuery()
+https://www.autohotkey.com/docs/v1/lib/ComObjQuery.htm
+
+ComObjType()
+https://www.autohotkey.com/docs/v1/lib/ComObjType.htm
+
+ComObjValue()
+https://www.autohotkey.com/docs/v1/lib/ComObjValue.htm
+
+Compatibility
+https://www.autohotkey.com/docs/v1/Compat.htm
+
+compile a script
+https://www.autohotkey.com/docs/v1/Scripts.htm#ahk2exe
+
+Compiler Directives
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm
+
+Compression
+https://www.autohotkey.com/docs/v1/Scripts.htm#mpress
+
+ComSpec
+https://www.autohotkey.com/docs/v1/Variables.htm#ComSpec
+
+concatenate, in expressions
+https://www.autohotkey.com/docs/v1/Variables.htm#concat
+
+concatenate, script lines
+https://www.autohotkey.com/docs/v1/Scripts.htm#continuation
+
+Concepts and Conventions
+https://www.autohotkey.com/docs/v1/Concepts.htm
+
+ConsoleApp directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#ConsoleApp
+
+Cont directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#Cont
+
+context menu (GUI)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#GuiContextMenu
+
+continuation sections
+https://www.autohotkey.com/docs/v1/Scripts.htm#continuation
+
+Continue
+https://www.autohotkey.com/docs/v1/lib/Continue.htm
+
+Control
+https://www.autohotkey.com/docs/v1/lib/Control.htm
+
+control flow
+https://www.autohotkey.com/docs/v1/Language.htm#control-flow
+
+ControlClick
+https://www.autohotkey.com/docs/v1/lib/ControlClick.htm
+
+ControlFocus
+https://www.autohotkey.com/docs/v1/lib/ControlFocus.htm
+
+ControlGet
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm
+
+ControlGetFocus
+https://www.autohotkey.com/docs/v1/lib/ControlGetFocus.htm
+
+ControlGetPos
+https://www.autohotkey.com/docs/v1/lib/ControlGetPos.htm
+
+ControlGetText
+https://www.autohotkey.com/docs/v1/lib/ControlGetText.htm
+
+ControlList (WinGet)
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm#ControlList
+
+ControlListHwnd (WinGet)
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm#ControlListHwnd
+
+ControlMove
+https://www.autohotkey.com/docs/v1/lib/ControlMove.htm
+
+ControlSend
+https://www.autohotkey.com/docs/v1/lib/ControlSend.htm
+
+ControlSend[Raw]
+https://www.autohotkey.com/docs/v1/lib/ControlSend.htm
+
+ControlSendRaw
+https://www.autohotkey.com/docs/v1/lib/ControlSend.htm
+
+ControlSetText
+https://www.autohotkey.com/docs/v1/lib/ControlSetText.htm
+
+convert a script to an EXE
+https://www.autohotkey.com/docs/v1/Scripts.htm#ahk2exe
+
+coordinates
+https://www.autohotkey.com/docs/v1/lib/CoordMode.htm
+
+CoordMode
+https://www.autohotkey.com/docs/v1/lib/CoordMode.htm
+
+copy file
+https://www.autohotkey.com/docs/v1/lib/FileCopy.htm
+
+copy folder/directory
+https://www.autohotkey.com/docs/v1/lib/FileCopyDir.htm
+
+Cos (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Cos
+
+Cos()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Cos
+
+Count (WinGet)
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm#Count
+
+Count method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Count
+
+Count method/property (Match)
+https://www.autohotkey.com/docs/v1/lib/RegExMatch.htm#MatchObject
+
+create file
+https://www.autohotkey.com/docs/v1/lib/FileAppend.htm
+
+create folder/directory
+https://www.autohotkey.com/docs/v1/lib/FileCreateDir.htm
+
+Critical
+https://www.autohotkey.com/docs/v1/lib/Critical.htm
+
+current directory
+https://www.autohotkey.com/docs/v1/lib/SetWorkingDir.htm
+
+current thread
+https://www.autohotkey.com/docs/v1/misc/Threads.htm
+
+CurrentCol (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#CurrentCol
+
+CurrentLine (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#CurrentLine
+
+cursor shape
+https://www.autohotkey.com/docs/v1/Variables.htm#Cursor
+
+custom combination hotkeys
+https://www.autohotkey.com/docs/v1/Hotkeys.htm#combo
+
+Custom controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#Custom
+
+dates and times (compare)
+https://www.autohotkey.com/docs/v1/lib/EnvSub.htm
+
+dates and times (math)
+https://www.autohotkey.com/docs/v1/lib/EnvAdd.htm
+
+dates and times (of files)
+https://www.autohotkey.com/docs/v1/lib/FileSetTime.htm
+
+DateTime controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#DateTime
+
+Debug directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#Debug
+
+debugger
+https://www.autohotkey.com/docs/v1/lib/OutputDebug.htm
+
+debugging a script
+https://www.autohotkey.com/docs/v1/Scripts.htm#debug
+
+Debugging Clients
+https://www.autohotkey.com/docs/v1/AHKL_DBGPClients.htm
+
+decimal places
+https://www.autohotkey.com/docs/v1/lib/Format.htm
+
+Default
+https://www.autohotkey.com/docs/v1/lib/Switch.htm
+
+Default (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Default
+
+Default (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Default
+
+Delete (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#Delete
+
+Delete (GuiControl)
+https://www.autohotkey.com/docs/v1/lib/GuiControl.htm#Delete
+
+Delete (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Delete
+
+delete files
+https://www.autohotkey.com/docs/v1/lib/FileDelete.htm
+
+delete folder/directory
+https://www.autohotkey.com/docs/v1/lib/FileRemoveDir.htm
+
+Delete method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Delete
+
+DeleteAll (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#DeleteAll
+
+Deref (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Deref
+
+Destroy (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Destroy
+
+DetectHiddenText
+https://www.autohotkey.com/docs/v1/lib/DetectHiddenText.htm
+
+DetectHiddenWindows
+https://www.autohotkey.com/docs/v1/lib/DetectHiddenWindows.htm
+
+dialog FileSelectFile
+https://www.autohotkey.com/docs/v1/lib/FileSelectFile.htm
+
+dialog FileSelectFolder
+https://www.autohotkey.com/docs/v1/lib/FileSelectFolder.htm
+
+dialog InputBox
+https://www.autohotkey.com/docs/v1/lib/InputBox.htm
+
+dialog MsgBox
+https://www.autohotkey.com/docs/v1/lib/MsgBox.htm
+
+digit
+https://www.autohotkey.com/docs/v1/lib/IfIs.htm
+
+Disable (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#Disable
+
+Disable (GuiControl)
+https://www.autohotkey.com/docs/v1/lib/GuiControl.htm#Disable
+
+Disable (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Disable
+
+Disable (WinSet)
+https://www.autohotkey.com/docs/v1/lib/WinSet.htm#Disable
+
+disk space
+https://www.autohotkey.com/docs/v1/lib/DriveSpaceFree.htm
+
+divide (math)
+https://www.autohotkey.com/docs/v1/Variables.htm#divide
+
+DllCall()
+https://www.autohotkey.com/docs/v1/lib/DllCall.htm
+
+double-deref
+https://www.autohotkey.com/docs/v1/Language.htm#dynamic-variables
+
+download a file
+https://www.autohotkey.com/docs/v1/lib/URLDownloadToFile.htm
+
+DPI Scaling
+https://www.autohotkey.com/docs/v1/misc/DPIScaling.htm
+
+drag and drop (GUI windows)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#GuiDropFiles
+
+drag the mouse
+https://www.autohotkey.com/docs/v1/lib/MouseClickDrag.htm
+
+Drive
+https://www.autohotkey.com/docs/v1/lib/Drive.htm
+
+DriveGet
+https://www.autohotkey.com/docs/v1/lib/DriveGet.htm
+
+DriveSpaceFree
+https://www.autohotkey.com/docs/v1/lib/DriveSpaceFree.htm
+
+DropDownList controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#DropDownList
+
+dynamic function calls
+https://www.autohotkey.com/docs/v1/Functions.htm#DynCall
+
+dynamic variables
+https://www.autohotkey.com/docs/v1/Language.htm#dynamic-variables
+
+Edit
+https://www.autohotkey.com/docs/v1/lib/Edit.htm
+
+Edit controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#Edit
+
+Edit this document on GitHub" data-content="E" target="_blank
+https://github.com/Lexikos/AutoHotkey_L-Docs/edit/v1/docs/
+
+EditPaste (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#EditPaste
+
+Eject (Drive)
+https://www.autohotkey.com/docs/v1/lib/Drive.htm#Eject
+
+Else
+https://www.autohotkey.com/docs/v1/lib/Else.htm
+
+Enable (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#Enable
+
+Enable (GuiControl)
+https://www.autohotkey.com/docs/v1/lib/GuiControl.htm#Enable
+
+Enable (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Enable
+
+Enable (WinSet)
+https://www.autohotkey.com/docs/v1/lib/WinSet.htm#Enable
+
+Enabled (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#Enabled
+
+Enabled (GuiControlGet)
+https://www.autohotkey.com/docs/v1/lib/GuiControlGet.htm#Enabled
+
+Encoding property (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#Encoding
+
+EndKey property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#EndKey
+
+EndMods property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#EndMods
+
+EndReason property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#EndReason
+
+Enumerator Object
+https://www.autohotkey.com/docs/v1/lib/Enumerator.htm
+
+EnvAdd
+https://www.autohotkey.com/docs/v1/lib/EnvAdd.htm
+
+EnvAdd (and date math)
+https://www.autohotkey.com/docs/v1/lib/EnvAdd.htm
+
+EnvDiv
+https://www.autohotkey.com/docs/v1/lib/EnvDiv.htm
+
+EnvGet
+https://www.autohotkey.com/docs/v1/lib/EnvGet.htm
+
+environment variables
+https://www.autohotkey.com/docs/v1/Concepts.htm#environment-variables
+
+environment variables (change them)
+https://www.autohotkey.com/docs/v1/lib/EnvSet.htm
+
+EnvMult
+https://www.autohotkey.com/docs/v1/lib/EnvMult.htm
+
+EnvSet
+https://www.autohotkey.com/docs/v1/lib/EnvSet.htm
+
+EnvSub
+https://www.autohotkey.com/docs/v1/lib/EnvSub.htm
+
+EnvSub (and date diff)
+https://www.autohotkey.com/docs/v1/lib/EnvSub.htm
+
+EnvUpdate
+https://www.autohotkey.com/docs/v1/lib/EnvUpdate.htm
+
+ErrorLevel
+https://www.autohotkey.com/docs/v1/misc/ErrorLevel.htm
+
+ErrorStdOut
+https://www.autohotkey.com/docs/v1/lib/_ErrorStdOut.htm
+
+escape sequence
+https://www.autohotkey.com/docs/v1/misc/EscapeChar.htm
+
+Exception Object
+https://www.autohotkey.com/docs/v1/lib/Throw.htm#Exception
+
+Exception()
+https://www.autohotkey.com/docs/v1/lib/Throw.htm#Exception
+
+ExeName directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#ExeName
+
+Exist (Process)
+https://www.autohotkey.com/docs/v1/lib/Process.htm#Exist
+
+Exit
+https://www.autohotkey.com/docs/v1/lib/Exit.htm
+
+ExitApp
+https://www.autohotkey.com/docs/v1/lib/ExitApp.htm
+
+Exp (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Exp
+
+Exp()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Exp
+
+expressions
+https://www.autohotkey.com/docs/v1/Variables.htm#Expressions
+
+ExStyle (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#ExStyle
+
+ExStyle (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#ExStyle
+
+ExStyle (WinGet)
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm#ExStyle
+
+ExStyle (WinSet)
+https://www.autohotkey.com/docs/v1/lib/WinSet.htm#ExStyle
+
+Extra property (Exception)
+https://www.autohotkey.com/docs/v1/lib/Throw.htm#Exception
+
+ExtractInteger -> NumGet()
+https://www.autohotkey.com/docs/v1/lib/NumGet.htm
+
+False
+https://www.autohotkey.com/docs/v1/Variables.htm#Boolean
+
+FAQ (Frequently Asked Questions)
+https://www.autohotkey.com/docs/v1/FAQ.htm
+
+file attributes
+https://www.autohotkey.com/docs/v1/lib/FileSetAttrib.htm
+
+File Object
+https://www.autohotkey.com/docs/v1/lib/File.htm
+
+file or folder (does it exist)
+https://www.autohotkey.com/docs/v1/lib/IfExist.htm
+
+file pattern
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm
+
+File property (Exception)
+https://www.autohotkey.com/docs/v1/lib/Throw.htm#Exception
+
+file, creating
+https://www.autohotkey.com/docs/v1/lib/FileAppend.htm
+
+file, reading
+https://www.autohotkey.com/docs/v1/lib/LoopReadFile.htm
+
+file, writing/appending
+https://www.autohotkey.com/docs/v1/lib/FileAppend.htm
+
+FileAppend
+https://www.autohotkey.com/docs/v1/lib/FileAppend.htm
+
+FileCopy
+https://www.autohotkey.com/docs/v1/lib/FileCopy.htm
+
+FileCopyDir
+https://www.autohotkey.com/docs/v1/lib/FileCopyDir.htm
+
+FileCreateDir
+https://www.autohotkey.com/docs/v1/lib/FileCreateDir.htm
+
+FileCreateShortcut
+https://www.autohotkey.com/docs/v1/lib/FileCreateShortcut.htm
+
+FileDelete
+https://www.autohotkey.com/docs/v1/lib/FileDelete.htm
+
+FileEncoding
+https://www.autohotkey.com/docs/v1/lib/FileEncoding.htm
+
+FileExist()
+https://www.autohotkey.com/docs/v1/lib/FileExist.htm
+
+FileGetAttrib
+https://www.autohotkey.com/docs/v1/lib/FileGetAttrib.htm
+
+FileGetShortcut
+https://www.autohotkey.com/docs/v1/lib/FileGetShortcut.htm
+
+FileGetSize
+https://www.autohotkey.com/docs/v1/lib/FileGetSize.htm
+
+FileGetTime
+https://www.autohotkey.com/docs/v1/lib/FileGetTime.htm
+
+FileGetVersion
+https://www.autohotkey.com/docs/v1/lib/FileGetVersion.htm
+
+FileInstall
+https://www.autohotkey.com/docs/v1/lib/FileInstall.htm
+
+FileMove
+https://www.autohotkey.com/docs/v1/lib/FileMove.htm
+
+FileMoveDir
+https://www.autohotkey.com/docs/v1/lib/FileMoveDir.htm
+
+FileOpen()
+https://www.autohotkey.com/docs/v1/lib/FileOpen.htm
+
+FileRead
+https://www.autohotkey.com/docs/v1/lib/FileRead.htm
+
+FileReadLine
+https://www.autohotkey.com/docs/v1/lib/FileReadLine.htm
+
+FileRecycle
+https://www.autohotkey.com/docs/v1/lib/FileRecycle.htm
+
+FileRecycleEmpty
+https://www.autohotkey.com/docs/v1/lib/FileRecycleEmpty.htm
+
+FileRemoveDir
+https://www.autohotkey.com/docs/v1/lib/FileRemoveDir.htm
+
+FileSelectFile
+https://www.autohotkey.com/docs/v1/lib/FileSelectFile.htm
+
+FileSelectFolder
+https://www.autohotkey.com/docs/v1/lib/FileSelectFolder.htm
+
+FileSetAttrib
+https://www.autohotkey.com/docs/v1/lib/FileSetAttrib.htm
+
+FileSetTime
+https://www.autohotkey.com/docs/v1/lib/FileSetTime.htm
+
+FileSystem (DriveGet)
+https://www.autohotkey.com/docs/v1/lib/DriveGet.htm#FileSystem
+
+Finally
+https://www.autohotkey.com/docs/v1/lib/Finally.htm
+
+find a file
+https://www.autohotkey.com/docs/v1/lib/IfExist.htm
+
+find a string
+https://www.autohotkey.com/docs/v1/lib/StringGetPos.htm
+
+find a window
+https://www.autohotkey.com/docs/v1/lib/WinExist.htm
+
+FindAnywhere property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#FindAnywhere
+
+FindString (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#FindString
+
+Flash (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Flash
+
+floating point (check if it is one)
+https://www.autohotkey.com/docs/v1/lib/IfIs.htm
+
+floating point (Format)
+https://www.autohotkey.com/docs/v1/lib/Format.htm
+
+Floor (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Floor
+
+Floor()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Floor
+
+focus
+https://www.autohotkey.com/docs/v1/lib/ControlFocus.htm
+
+Focus (GuiControl)
+https://www.autohotkey.com/docs/v1/lib/GuiControl.htm#Focus
+
+Focus (GuiControlGet)
+https://www.autohotkey.com/docs/v1/lib/GuiControlGet.htm#Focus
+
+FocusV (GuiControlGet)
+https://www.autohotkey.com/docs/v1/lib/GuiControlGet.htm#FocusV
+
+folder/directory copy
+https://www.autohotkey.com/docs/v1/lib/FileCopyDir.htm
+
+folder/directory create
+https://www.autohotkey.com/docs/v1/lib/FileCreateDir.htm
+
+folder/directory move
+https://www.autohotkey.com/docs/v1/lib/FileMoveDir.htm
+
+folder/directory remove
+https://www.autohotkey.com/docs/v1/lib/FileRemoveDir.htm
+
+folder/directory select
+https://www.autohotkey.com/docs/v1/lib/FileSelectFolder.htm
+
+Font (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Font
+
+Font (GuiControl)
+https://www.autohotkey.com/docs/v1/lib/GuiControl.htm#Font
+
+Fonts
+https://www.autohotkey.com/docs/v1/misc/FontsStandard.htm
+
+For ... in
+https://www.autohotkey.com/docs/v1/lib/For.htm
+
+For-loop
+https://www.autohotkey.com/docs/v1/lib/For.htm
+
+format (defaults)
+https://www.autohotkey.com/docs/v1/lib/Format.htm
+
+Format()
+https://www.autohotkey.com/docs/v1/lib/Format.htm
+
+FormatTime
+https://www.autohotkey.com/docs/v1/lib/FormatTime.htm
+
+free space
+https://www.autohotkey.com/docs/v1/lib/DriveSpaceFree.htm
+
+Frequently Asked Questions
+https://www.autohotkey.com/docs/v1/FAQ.htm
+
+FTP uploading example
+https://www.autohotkey.com/docs/v1/lib/FileAppend.htm#FTP
+
+Func Object
+https://www.autohotkey.com/docs/v1/lib/Func.htm
+
+Func()
+https://www.autohotkey.com/docs/v1/lib/Func.htm#Func
+
+Function Objects
+https://www.autohotkey.com/docs/v1/misc/Functor.htm
+
+Functions
+https://www.autohotkey.com/docs/v1/Functions.htm
+
+functions (concepts)
+https://www.autohotkey.com/docs/v1/Concepts.htm#functions
+
+functions (defining and calling)
+https://www.autohotkey.com/docs/v1/Functions.htm
+
+functions (libraries)
+https://www.autohotkey.com/docs/v1/Functions.htm#lib
+
+g-label (responding to GUI events)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#label
+
+game automation
+https://www.autohotkey.com/docs/v1/lib/PixelSearch.htm
+
+GetAddress method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#GetAddress
+
+GetCapacity method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#GetCapacity
+
+GetKeyName()
+https://www.autohotkey.com/docs/v1/lib/GetKey.htm
+
+GetKeySC()
+https://www.autohotkey.com/docs/v1/lib/GetKey.htm
+
+GetKeyState
+https://www.autohotkey.com/docs/v1/lib/GetKeyState.htm#command
+
+GetKeyState()
+https://www.autohotkey.com/docs/v1/lib/GetKeyState.htm#function
+
+GetKeyVK()
+https://www.autohotkey.com/docs/v1/lib/GetKey.htm
+
+global
+https://www.autohotkey.com/docs/v1/Functions.htm#Global
+
+global variables in functions
+https://www.autohotkey.com/docs/v1/Functions.htm#Global
+
+Go to the homepage
+https://www.autohotkey.com
+
+Gosub
+https://www.autohotkey.com/docs/v1/lib/Gosub.htm
+
+Goto
+https://www.autohotkey.com/docs/v1/lib/Goto.htm
+
+GroupActivate
+https://www.autohotkey.com/docs/v1/lib/GroupActivate.htm
+
+GroupAdd
+https://www.autohotkey.com/docs/v1/lib/GroupAdd.htm
+
+GroupBox controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#GroupBox
+
+GroupClose
+https://www.autohotkey.com/docs/v1/lib/GroupClose.htm
+
+GroupDeactivate
+https://www.autohotkey.com/docs/v1/lib/GroupDeactivate.htm
+
+Gui
+https://www.autohotkey.com/docs/v1/lib/Gui.htm
+
+Gui control types
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm
+
+Gui ListView control
+https://www.autohotkey.com/docs/v1/lib/ListView.htm
+
+Gui styles reference
+https://www.autohotkey.com/docs/v1/misc/Styles.htm
+
+Gui TreeView control
+https://www.autohotkey.com/docs/v1/lib/TreeView.htm
+
+GuiClose (label)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#GuiClose
+
+GuiContextMenu (label)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#GuiContextMenu
+
+GuiControl
+https://www.autohotkey.com/docs/v1/lib/GuiControl.htm
+
+GuiControlGet
+https://www.autohotkey.com/docs/v1/lib/GuiControlGet.htm
+
+GuiDropFiles (label)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#GuiDropFiles
+
+GuiEscape (label)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#GuiEscape
+
+GuiSize (label)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#GuiSize
+
+Handle property (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#Handle
+
+HasKey method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#HasKey
+
+HBITMAP:
+https://www.autohotkey.com/docs/v1/misc/ImageHandles.htm
+
+hexadecimal format
+https://www.autohotkey.com/docs/v1/lib/Format.htm
+
+hibernate or suspend
+https://www.autohotkey.com/docs/v1/lib/Shutdown.htm#Suspend
+
+HICON:
+https://www.autohotkey.com/docs/v1/misc/ImageHandles.htm
+
+hidden text
+https://www.autohotkey.com/docs/v1/lib/DetectHiddenText.htm
+
+hidden windows
+https://www.autohotkey.com/docs/v1/lib/DetectHiddenWindows.htm
+
+Hide (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#Hide
+
+Hide (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Hide
+
+Hide (GuiControl)
+https://www.autohotkey.com/docs/v1/lib/GuiControl.htm#Hide
+
+HideDropDown (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#HideDropDown
+
+HKEY_CLASSES_ROOT (HKCR)
+https://www.autohotkey.com/docs/v1/lib/RegRead.htm
+
+HKEY_CURRENT_CONFIG (HKCC)
+https://www.autohotkey.com/docs/v1/lib/RegRead.htm
+
+HKEY_CURRENT_USER (HKCU)
+https://www.autohotkey.com/docs/v1/lib/RegRead.htm
+
+HKEY_LOCAL_MACHINE (HKLM)
+https://www.autohotkey.com/docs/v1/lib/RegRead.htm
+
+HKEY_USERS (HKU)
+https://www.autohotkey.com/docs/v1/lib/RegRead.htm
+
+hook
+https://www.autohotkey.com/docs/v1/lib/_InstallKeybdHook.htm
+
+Hotkey
+https://www.autohotkey.com/docs/v1/lib/Hotkey.htm
+
+Hotkey controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#Hotkey
+
+Hotkey, ListHotkeys
+https://www.autohotkey.com/docs/v1/lib/ListHotkeys.htm
+
+Hotkey, other features
+https://www.autohotkey.com/docs/v1/HotkeyFeatures.htm
+
+HotkeyInterval
+https://www.autohotkey.com/docs/v1/lib/_HotkeyInterval.htm
+
+HotkeyModifierTimeout
+https://www.autohotkey.com/docs/v1/lib/_HotkeyModifierTimeout.htm
+
+Hotkeys
+https://www.autohotkey.com/docs/v1/Hotkeys.htm
+
+Hotkeys (general information)
+https://www.autohotkey.com/docs/v1/Hotkeys.htm
+
+Hotkeys and Hotstrings
+https://www.autohotkey.com/docs/v1/Hotkeys.htm
+
+Hotstring()
+https://www.autohotkey.com/docs/v1/lib/Hotstring.htm
+
+Hotstrings
+https://www.autohotkey.com/docs/v1/Hotstrings.htm
+
+Hotstrings &amp; auto-replace
+https://www.autohotkey.com/docs/v1/Hotstrings.htm
+
+Hotstrings (general information)
+https://www.autohotkey.com/docs/v1/Hotstrings.htm
+
+HTML (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#HTML
+
+HTML color names
+https://www.autohotkey.com/docs/v1/lib/Progress.htm#colors
+
+Hwnd (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#Hwnd
+
+Hwnd (GuiControlGet)
+https://www.autohotkey.com/docs/v1/lib/GuiControlGet.htm#Hwnd
+
+HWND (of a window)
+https://www.autohotkey.com/docs/v1/misc/WinTitle.htm#ahk_id
+
+Icon (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Icon
+
+icon, changing
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Icon
+
+ID (WinGet)
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm#ID
+
+ID number for a window
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm
+
+IDLast (WinGet)
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm#IDLast
+
+If
+https://www.autohotkey.com/docs/v1/lib/IfExpression.htm
+
+If (expression)
+https://www.autohotkey.com/docs/v1/lib/IfExpression.htm
+
+If (legacy)
+https://www.autohotkey.com/docs/v1/lib/IfEqual.htm
+
+If (traditional)
+https://www.autohotkey.com/docs/v1/lib/IfEqual.htm
+
+If ... between ... and
+https://www.autohotkey.com/docs/v1/lib/IfBetween.htm
+
+If ... contains
+https://www.autohotkey.com/docs/v1/lib/IfIn.htm
+
+If ... in
+https://www.autohotkey.com/docs/v1/lib/IfIn.htm
+
+If ... is
+https://www.autohotkey.com/docs/v1/lib/IfIs.htm
+
+If ... is not
+https://www.autohotkey.com/docs/v1/lib/IfIs.htm
+
+If ... not between ... and
+https://www.autohotkey.com/docs/v1/lib/IfBetween.htm
+
+If ... not contains
+https://www.autohotkey.com/docs/v1/lib/IfIn.htm
+
+If ... not in
+https://www.autohotkey.com/docs/v1/lib/IfIn.htm
+
+If var [not] between Low and High
+https://www.autohotkey.com/docs/v1/lib/IfBetween.htm
+
+If var [not] in/contains MatchList
+https://www.autohotkey.com/docs/v1/lib/IfIn.htm
+
+If var is [not] type
+https://www.autohotkey.com/docs/v1/lib/IfIs.htm
+
+If[Not]Exist
+https://www.autohotkey.com/docs/v1/lib/IfExist.htm
+
+If[Not]InString
+https://www.autohotkey.com/docs/v1/lib/IfInString.htm
+
+IfEqual
+https://www.autohotkey.com/docs/v1/lib/IfEqual.htm
+
+IfExist
+https://www.autohotkey.com/docs/v1/lib/IfExist.htm
+
+IfGreater
+https://www.autohotkey.com/docs/v1/lib/IfEqual.htm
+
+IfGreaterOrEqual
+https://www.autohotkey.com/docs/v1/lib/IfEqual.htm
+
+IfInString
+https://www.autohotkey.com/docs/v1/lib/IfInString.htm
+
+IfLess
+https://www.autohotkey.com/docs/v1/lib/IfEqual.htm
+
+IfLessOrEqual
+https://www.autohotkey.com/docs/v1/lib/IfEqual.htm
+
+IfMsgBox
+https://www.autohotkey.com/docs/v1/lib/IfMsgBox.htm
+
+IfNotEqual
+https://www.autohotkey.com/docs/v1/lib/IfEqual.htm
+
+IfNotExist
+https://www.autohotkey.com/docs/v1/lib/IfExist.htm
+
+IfNotInString
+https://www.autohotkey.com/docs/v1/lib/IfInString.htm
+
+IfWin[Not]Active
+https://www.autohotkey.com/docs/v1/lib/IfWinActive.htm
+
+IfWin[Not]Exist
+https://www.autohotkey.com/docs/v1/lib/IfWinExist.htm
+
+IfWinActive
+https://www.autohotkey.com/docs/v1/lib/IfWinActive.htm
+
+IfWinExist
+https://www.autohotkey.com/docs/v1/lib/IfWinExist.htm
+
+IfWinNotActive
+https://www.autohotkey.com/docs/v1/lib/IfWinActive.htm
+
+IfWinNotExist
+https://www.autohotkey.com/docs/v1/lib/IfWinExist.htm
+
+IgnoreBegin directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#IgnoreKeep
+
+IgnoreEnd directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#IgnoreKeep
+
+IL_Add()
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#IL_Add
+
+IL_Create()
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#IL_Create
+
+IL_Destroy()
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#IL_Destroy
+
+Image Handles
+https://www.autohotkey.com/docs/v1/misc/ImageHandles.htm
+
+Image Lists (GUI)
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#IL
+
+ImageSearch
+https://www.autohotkey.com/docs/v1/lib/ImageSearch.htm
+
+Include
+https://www.autohotkey.com/docs/v1/lib/_Include.htm
+
+infrared remote controls
+https://www.autohotkey.com/docs/v1/scripts/index.htm#WinLIRC
+
+IniDelete
+https://www.autohotkey.com/docs/v1/lib/IniDelete.htm
+
+IniRead
+https://www.autohotkey.com/docs/v1/lib/IniRead.htm
+
+IniWrite
+https://www.autohotkey.com/docs/v1/lib/IniWrite.htm
+
+InProgress property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#InProgress
+
+Input
+https://www.autohotkey.com/docs/v1/lib/Input.htm
+
+Input property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#Input
+
+InputBox
+https://www.autohotkey.com/docs/v1/lib/InputBox.htm
+
+InputHook Object
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#object
+
+InputHook()
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm
+
+Insert (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Insert
+
+Insert method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Insert
+
+InsertAt method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#InsertAt
+
+InsertInteger -> NumPut()
+https://www.autohotkey.com/docs/v1/lib/NumPut.htm
+
+Install
+https://www.autohotkey.com/docs/v1/lib/FileInstall.htm
+
+installer options
+https://www.autohotkey.com/docs/v1/Program.htm#install
+
+InstallKeybdHook
+https://www.autohotkey.com/docs/v1/lib/_InstallKeybdHook.htm
+
+InstallMouseHook
+https://www.autohotkey.com/docs/v1/lib/_InstallMouseHook.htm
+
+InStr()
+https://www.autohotkey.com/docs/v1/lib/InStr.htm
+
+integer (check if it is one)
+https://www.autohotkey.com/docs/v1/lib/IfIs.htm
+
+integer (Format)
+https://www.autohotkey.com/docs/v1/lib/Format.htm
+
+Interrupt (Thread)
+https://www.autohotkey.com/docs/v1/lib/Thread.htm#Interrupt
+
+IsBuiltIn property (Func)
+https://www.autohotkey.com/docs/v1/lib/Func.htm#IsBuiltIn
+
+IsByRef method (Func)
+https://www.autohotkey.com/docs/v1/lib/Func.htm#IsByRef
+
+IsByRef()
+https://www.autohotkey.com/docs/v1/lib/IsByRef.htm
+
+IsFunc()
+https://www.autohotkey.com/docs/v1/lib/IsFunc.htm
+
+IsLabel()
+https://www.autohotkey.com/docs/v1/lib/IsLabel.htm
+
+IsObject()
+https://www.autohotkey.com/docs/v1/lib/IsObject.htm
+
+IsOptional method (Func)
+https://www.autohotkey.com/docs/v1/lib/Func.htm#IsOptional
+
+IsSet()
+https://www.autohotkey.com/docs/v1/lib/IsSet.htm
+
+IsVariadic property (Func)
+https://www.autohotkey.com/docs/v1/lib/Func.htm#IsVariadic
+
+Join (continuation sections)
+https://www.autohotkey.com/docs/v1/Scripts.htm#Join
+
+Joystick
+https://www.autohotkey.com/docs/v1/KeyList.htm#Joystick
+
+JScript, embedded/inline
+https://www.autohotkey.com/docs/v1/lib/DllCall.htm#COM
+
+Keep directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#IgnoreKeep
+
+key list (keyboard, mouse, joystick)
+https://www.autohotkey.com/docs/v1/KeyList.htm
+
+key state
+https://www.autohotkey.com/docs/v1/lib/GetKeyState.htm#function
+
+keyboard hook
+https://www.autohotkey.com/docs/v1/lib/_InstallKeybdHook.htm
+
+KeyHistory
+https://www.autohotkey.com/docs/v1/lib/KeyHistory.htm
+
+KeyOpt method (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#KeyOpt
+
+keystrokes, sending
+https://www.autohotkey.com/docs/v1/lib/Send.htm
+
+KeyWait
+https://www.autohotkey.com/docs/v1/lib/KeyWait.htm
+
+Label (Drive)
+https://www.autohotkey.com/docs/v1/lib/Drive.htm#Label
+
+Label (DriveGet)
+https://www.autohotkey.com/docs/v1/lib/DriveGet.htm#Label
+
+Labels
+https://www.autohotkey.com/docs/v1/misc/Labels.htm
+
+language overview
+https://www.autohotkey.com/docs/v1/Language.htm
+
+last found window
+https://www.autohotkey.com/docs/v1/misc/WinTitle.htm#LastFoundWindow
+
+Len method/property (Match)
+https://www.autohotkey.com/docs/v1/lib/RegExMatch.htm#MatchObject
+
+Length method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Length
+
+length of a string
+https://www.autohotkey.com/docs/v1/lib/StrLen.htm
+
+Length property (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#Length
+
+Let directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#Let
+
+libraries of functions
+https://www.autohotkey.com/docs/v1/Functions.htm#lib
+
+license
+https://www.autohotkey.com/docs/v1/license.htm
+
+Line (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#Line
+
+line continuation
+https://www.autohotkey.com/docs/v1/Scripts.htm#continuation
+
+Line property (Exception)
+https://www.autohotkey.com/docs/v1/lib/Throw.htm#Exception
+
+LineCount (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#LineCount
+
+Link controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#Link
+
+List (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#List
+
+List (DriveGet)
+https://www.autohotkey.com/docs/v1/lib/DriveGet.htm#List
+
+List (Process)
+https://www.autohotkey.com/docs/v1/lib/Process.htm#List
+
+List (WinGet)
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm#List
+
+List of Keys
+https://www.autohotkey.com/docs/v1/KeyList.htm
+
+ListBox controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#ListBox
+
+ListHotkeys
+https://www.autohotkey.com/docs/v1/lib/ListHotkeys.htm
+
+ListLines
+https://www.autohotkey.com/docs/v1/lib/ListLines.htm
+
+ListVars
+https://www.autohotkey.com/docs/v1/lib/ListVars.htm
+
+ListView controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/ListView.htm
+
+ListView, getting text from
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#List
+
+Ln (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Ln
+
+Ln()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Ln
+
+lnk (link/shortcut) file
+https://www.autohotkey.com/docs/v1/lib/FileCreateShortcut.htm
+
+LoadPicture()
+https://www.autohotkey.com/docs/v1/lib/LoadPicture.htm
+
+local
+https://www.autohotkey.com/docs/v1/Functions.htm#Local
+
+local variables
+https://www.autohotkey.com/docs/v1/Functions.htm#Local
+
+Locale
+https://www.autohotkey.com/docs/v1/lib/StringCaseSense.htm#Locale
+
+Lock (Drive)
+https://www.autohotkey.com/docs/v1/lib/Drive.htm#Lock
+
+Log (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Log
+
+Log()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Log
+
+logarithm, log()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Log
+
+logoff
+https://www.autohotkey.com/docs/v1/lib/Shutdown.htm
+
+long file name (converting to)
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileLongPath
+
+Long Paths
+https://www.autohotkey.com/docs/v1/misc/LongPaths.htm
+
+Loop
+https://www.autohotkey.com/docs/v1/lib/Loop.htm
+
+Loop (files &amp; folders)
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm
+
+Loop (parse a string)
+https://www.autohotkey.com/docs/v1/lib/LoopParse.htm
+
+Loop (read file contents)
+https://www.autohotkey.com/docs/v1/lib/LoopReadFile.htm
+
+Loop (registry)
+https://www.autohotkey.com/docs/v1/lib/LoopReg.htm
+
+Loop (until)
+https://www.autohotkey.com/docs/v1/lib/Until.htm
+
+Loop (while)
+https://www.autohotkey.com/docs/v1/lib/While.htm
+
+Loop, Files
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm
+
+Loop, Parse
+https://www.autohotkey.com/docs/v1/lib/LoopParse.htm
+
+Loop, Read
+https://www.autohotkey.com/docs/v1/lib/LoopReadFile.htm
+
+Loop, Reg
+https://www.autohotkey.com/docs/v1/lib/LoopReg.htm
+
+lParam
+https://www.autohotkey.com/docs/v1/lib/PostMessage.htm
+
+LTrim (continuation sections)
+https://www.autohotkey.com/docs/v1/Scripts.htm#LTrim
+
+LTrim()
+https://www.autohotkey.com/docs/v1/lib/Trim.htm
+
+LV_Add()
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#LV_Add
+
+LV_Delete()
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#LV_Delete
+
+LV_DeleteCol()
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#LV_DeleteCol
+
+LV_GetCount()
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#LV_GetCount
+
+LV_GetNext()
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#LV_GetNext
+
+LV_GetText()
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#LV_GetText
+
+LV_Insert()
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#LV_Insert
+
+LV_InsertCol()
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#LV_InsertCol
+
+LV_Modify()
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#LV_Modify
+
+LV_ModifyCol()
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#LV_ModifyCol
+
+LV_SetImageList()
+https://www.autohotkey.com/docs/v1/lib/ListView.htm#LV_SetImageList
+
+macro
+https://www.autohotkey.com/docs/v1/misc/Macros.htm
+
+main window
+https://www.autohotkey.com/docs/v1/Program.htm#main-window
+
+MainWindow (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#MainWindow
+
+Margin (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Margin
+
+Mark method/property (Match)
+https://www.autohotkey.com/docs/v1/lib/RegExMatch.htm#MatchObject
+
+Match property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#Match
+
+math functions
+https://www.autohotkey.com/docs/v1/lib/Math.htm
+
+math operations (expressions)
+https://www.autohotkey.com/docs/v1/Variables.htm#Expressions
+
+Maths
+https://www.autohotkey.com/docs/v1/lib/Math.htm
+
+Max()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Max
+
+MaxHotkeysPerInterval
+https://www.autohotkey.com/docs/v1/lib/_MaxHotkeysPerInterval.htm
+
+Maximize (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Maximize
+
+MaxIndex method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#MinMaxIndex
+
+MaxParams property (Func)
+https://www.autohotkey.com/docs/v1/lib/Func.htm#MaxParams
+
+MaxThreads
+https://www.autohotkey.com/docs/v1/lib/_MaxThreads.htm
+
+MaxThreadsBuffer
+https://www.autohotkey.com/docs/v1/lib/_MaxThreadsBuffer.htm
+
+MaxThreadsPerHotkey
+https://www.autohotkey.com/docs/v1/lib/_MaxThreadsPerHotkey.htm
+
+Menu
+https://www.autohotkey.com/docs/v1/lib/Menu.htm
+
+Menu (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Menu
+
+Menu Bar (GUI)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Menu
+
+Menu Icon
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#MenuIcon
+
+MenuGetHandle()
+https://www.autohotkey.com/docs/v1/lib/MenuGetHandle.htm
+
+MenuGetName()
+https://www.autohotkey.com/docs/v1/lib/MenuGetName.htm
+
+message list (WM_*)
+https://www.autohotkey.com/docs/v1/misc/SendMessageList.htm
+
+Message property (Exception)
+https://www.autohotkey.com/docs/v1/lib/Throw.htm#Exception
+
+messages, receiving
+https://www.autohotkey.com/docs/v1/lib/OnMessage.htm
+
+messages, sending
+https://www.autohotkey.com/docs/v1/lib/PostMessage.htm
+
+meta-functions (Objects)
+https://www.autohotkey.com/docs/v1/Objects.htm#Meta_Functions
+
+methods (concepts)
+https://www.autohotkey.com/docs/v1/Concepts.htm#methods
+
+Min()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Min
+
+Minimize (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Minimize
+
+MinIndex method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#MinMaxIndex
+
+MinMax (WinGet)
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm#MinMax
+
+MinParams property (Func)
+https://www.autohotkey.com/docs/v1/lib/Func.htm#MinParams
+
+MinSendLevel property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#MinSendLevel
+
+Mod (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Mod
+
+Mod()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Mod
+
+modal (always on top)
+https://www.autohotkey.com/docs/v1/lib/MsgBox.htm
+
+modulo, mod()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Mod
+
+Monitor (SysGet)
+https://www.autohotkey.com/docs/v1/lib/SysGet.htm#Monitor
+
+MonitorCount (SysGet)
+https://www.autohotkey.com/docs/v1/lib/SysGet.htm#MonitorCount
+
+MonitorName (SysGet)
+https://www.autohotkey.com/docs/v1/lib/SysGet.htm#MonitorName
+
+MonitorPrimary (SysGet)
+https://www.autohotkey.com/docs/v1/lib/SysGet.htm#MonitorPrimary
+
+MonitorWorkArea (SysGet)
+https://www.autohotkey.com/docs/v1/lib/SysGet.htm#MonitorWorkArea
+
+MonthCal controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#MonthCal
+
+mouse hook
+https://www.autohotkey.com/docs/v1/lib/_InstallMouseHook.htm
+
+mouse speed
+https://www.autohotkey.com/docs/v1/lib/SetDefaultMouseSpeed.htm
+
+mouse wheel
+https://www.autohotkey.com/docs/v1/lib/Click.htm
+
+MouseClick
+https://www.autohotkey.com/docs/v1/lib/MouseClick.htm
+
+MouseClickDrag
+https://www.autohotkey.com/docs/v1/lib/MouseClickDrag.htm
+
+MouseGetPos
+https://www.autohotkey.com/docs/v1/lib/MouseGetPos.htm
+
+MouseMove
+https://www.autohotkey.com/docs/v1/lib/MouseMove.htm
+
+Move (GuiControl)
+https://www.autohotkey.com/docs/v1/lib/GuiControl.htm#Move
+
+move a window
+https://www.autohotkey.com/docs/v1/lib/WinMove.htm
+
+move file
+https://www.autohotkey.com/docs/v1/lib/FileMove.htm
+
+move folder/directory
+https://www.autohotkey.com/docs/v1/lib/FileMoveDir.htm
+
+MoveDraw (GuiControl)
+https://www.autohotkey.com/docs/v1/lib/GuiControl.htm#MoveDraw
+
+MsgBox
+https://www.autohotkey.com/docs/v1/lib/MsgBox.htm
+
+multiply
+https://www.autohotkey.com/docs/v1/lib/EnvMult.htm
+
+mute (changing it)
+https://www.autohotkey.com/docs/v1/lib/SoundSet.htm
+
+Name (GuiControlGet)
+https://www.autohotkey.com/docs/v1/lib/GuiControlGet.htm#Name
+
+Name method/property (Match)
+https://www.autohotkey.com/docs/v1/lib/RegExMatch.htm#MatchObject
+
+Name property (Func)
+https://www.autohotkey.com/docs/v1/lib/Func.htm#Name
+
+names
+https://www.autohotkey.com/docs/v1/Concepts.htm#names
+
+new
+https://www.autohotkey.com/docs/v1/Variables.htm#new
+
+New (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#New
+
+Next method (Enumerator)
+https://www.autohotkey.com/docs/v1/lib/Enumerator.htm#Next
+
+NoDefault (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#NoDefault
+
+NoIcon (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#NoIcon
+
+NoMainWindow (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#NoMainWindow
+
+Nop directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#Nop
+
+NoStandard (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#NoStandard
+
+not
+https://www.autohotkey.com/docs/v1/Variables.htm#not
+
+nothing (concepts)
+https://www.autohotkey.com/docs/v1/Concepts.htm#nothing
+
+NotifyNonText property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#NotifyNonText
+
+NoTimers (Thread)
+https://www.autohotkey.com/docs/v1/lib/Thread.htm#NoTimers
+
+NoTrayIcon
+https://www.autohotkey.com/docs/v1/lib/_NoTrayIcon.htm
+
+number (if var is number)
+https://www.autohotkey.com/docs/v1/lib/IfIs.htm
+
+number format
+https://www.autohotkey.com/docs/v1/Concepts.htm#numbers
+
+NumGet()
+https://www.autohotkey.com/docs/v1/lib/NumGet.htm
+
+NumPut()
+https://www.autohotkey.com/docs/v1/lib/NumPut.htm
+
+Obey directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#Obey
+
+ObjAddRef()
+https://www.autohotkey.com/docs/v1/lib/ObjAddRef.htm
+
+ObjAddRef() / ObjRelease()
+https://www.autohotkey.com/docs/v1/lib/ObjAddRef.htm
+
+ObjBindMethod()
+https://www.autohotkey.com/docs/v1/lib/ObjBindMethod.htm
+
+ObjClone()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Clone
+
+ObjCount()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Count
+
+ObjDelete()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Delete
+
+Object
+https://www.autohotkey.com/docs/v1/lib/Object.htm
+
+Object functions and methods
+https://www.autohotkey.com/docs/v1/lib/Object.htm
+
+Object()
+https://www.autohotkey.com/docs/v1/Objects.htm#Usage_Associative_Arrays
+
+Objects
+https://www.autohotkey.com/docs/v1/Objects.htm
+
+Objects (general information)
+https://www.autohotkey.com/docs/v1/Objects.htm
+
+ObjGetAddress()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#GetAddress
+
+ObjGetBase()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#GetBase
+
+ObjGetCapacity()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#GetCapacity
+
+ObjHasKey()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#HasKey
+
+ObjInsert()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Insert
+
+ObjInsertAt()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#InsertAt
+
+ObjLength()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Length
+
+ObjMaxIndex()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#MinMaxIndex
+
+ObjMinIndex()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#MinMaxIndex
+
+ObjNewEnum()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#NewEnum
+
+ObjPop()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Pop
+
+ObjPush()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Push
+
+ObjRawGet()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#RawGet
+
+ObjRawSet()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#RawSet
+
+ObjRelease()
+https://www.autohotkey.com/docs/v1/lib/ObjAddRef.htm
+
+ObjRemove()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Remove
+
+ObjRemoveAt()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#RemoveAt
+
+ObjSetBase()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#SetBase
+
+ObjSetCapacity()
+https://www.autohotkey.com/docs/v1/lib/Object.htm#SetCapacity
+
+OnChar property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#OnChar
+
+OnClipboardChange Label
+https://www.autohotkey.com/docs/v1/lib/OnClipboardChange.htm#label
+
+OnClipboardChange()
+https://www.autohotkey.com/docs/v1/lib/OnClipboardChange.htm#function
+
+OnClipboardChange:
+https://www.autohotkey.com/docs/v1/lib/OnClipboardChange.htm#label
+
+OnEnd property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#OnEnd
+
+OnError()
+https://www.autohotkey.com/docs/v1/lib/OnError.htm
+
+OnExit
+https://www.autohotkey.com/docs/v1/lib/OnExit.htm#command
+
+OnExit()
+https://www.autohotkey.com/docs/v1/lib/OnExit.htm#function
+
+OnKeyDown property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#OnKeyDown
+
+OnKeyUp property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#OnKeyUp
+
+OnMessage()
+https://www.autohotkey.com/docs/v1/lib/OnMessage.htm
+
+open file
+https://www.autohotkey.com/docs/v1/lib/FileOpen.htm
+
+Open this document in the default browser (requires internet connection). Middle-click to copy the link address.
+https://www.autohotkey.com/docs/v1/
+
+operators in expressions
+https://www.autohotkey.com/docs/v1/Variables.htm#Operators
+
+or
+https://www.autohotkey.com/docs/v1/Variables.htm#or
+
+Ord()
+https://www.autohotkey.com/docs/v1/lib/Ord.htm
+
+OutputDebug
+https://www.autohotkey.com/docs/v1/lib/OutputDebug.htm
+
+OwnDialogs (GUI)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#OwnDialogs
+
+Owner of a GUI window
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Owner
+
+parameters passed into a script
+https://www.autohotkey.com/docs/v1/Scripts.htm#cmd
+
+parse a string (Loop)
+https://www.autohotkey.com/docs/v1/lib/LoopParse.htm
+
+parse a string (StrSplit)
+https://www.autohotkey.com/docs/v1/lib/StrSplit.htm
+
+Pause
+https://www.autohotkey.com/docs/v1/lib/Pause.htm
+
+performance of scripts
+https://www.autohotkey.com/docs/v1/misc/Performance.htm
+
+Picture controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#Picture
+
+PID (Process ID)
+https://www.autohotkey.com/docs/v1/lib/Process.htm
+
+PID (WinGet)
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm#PID
+
+PixelGetColor
+https://www.autohotkey.com/docs/v1/lib/PixelGetColor.htm
+
+PixelSearch
+https://www.autohotkey.com/docs/v1/lib/PixelSearch.htm
+
+play a sound or video file
+https://www.autohotkey.com/docs/v1/lib/SoundPlay.htm
+
+Pop method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Pop
+
+Pos (GuiControlGet)
+https://www.autohotkey.com/docs/v1/lib/GuiControlGet.htm#Pos
+
+Pos method/property (Match)
+https://www.autohotkey.com/docs/v1/lib/RegExMatch.htm#MatchObject
+
+Pos property (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#Seek
+
+PostExec directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#PostExec
+
+PostMessage
+https://www.autohotkey.com/docs/v1/lib/PostMessage.htm
+
+PostMessage/SendMessage
+https://www.autohotkey.com/docs/v1/lib/PostMessage.htm
+
+Pow (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Pow
+
+power (exponentiation)
+https://www.autohotkey.com/docs/v1/Variables.htm#pow
+
+prefix and suffix keys
+https://www.autohotkey.com/docs/v1/Hotkeys.htm
+
+print a file
+https://www.autohotkey.com/docs/v1/lib/Run.htm
+
+Priority (Process)
+https://www.autohotkey.com/docs/v1/lib/Process.htm#Priority
+
+Priority (Thread)
+https://www.autohotkey.com/docs/v1/lib/Thread.htm#Priority
+
+Process
+https://www.autohotkey.com/docs/v1/lib/Process.htm
+
+ProcessName (WinGet)
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm#ProcessName
+
+ProcessPath (WinGet)
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm#ProcessPath
+
+ProgramFiles
+https://www.autohotkey.com/docs/v1/Variables.htm#ProgramFiles
+
+Progress
+https://www.autohotkey.com/docs/v1/lib/Progress.htm
+
+Progress controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#Progress
+
+properties (Objects)
+https://www.autohotkey.com/docs/v1/Objects.htm#Custom_Classes_property
+
+properties of a file or folder
+https://www.autohotkey.com/docs/v1/lib/Run.htm
+
+Push method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Push
+
+Quick Reference
+https://www.autohotkey.com/docs/v1/#Quick_Reference
+
+quit script
+https://www.autohotkey.com/docs/v1/lib/ExitApp.htm
+
+Radio controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#Radio
+
+Random
+https://www.autohotkey.com/docs/v1/lib/Random.htm
+
+raw-mode Send
+https://www.autohotkey.com/docs/v1/lib/Send.htm#SendRaw
+
+RawRead method (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#RawRead
+
+RawWrite method (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#RawWrite
+
+read file
+https://www.autohotkey.com/docs/v1/lib/FileRead.htm
+
+Read method (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#Read
+
+ReadLine method (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#ReadLine
+
+ReadNumType method (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#ReadNum
+
+READONLY
+https://www.autohotkey.com/docs/v1/lib/FileGetAttrib.htm
+
+reboot
+https://www.autohotkey.com/docs/v1/lib/Shutdown.htm
+
+Recent Changes
+https://www.autohotkey.com/docs/v1/AHKL_ChangeLog.htm
+
+Redraw (WinSet)
+https://www.autohotkey.com/docs/v1/lib/WinSet.htm#Redraw
+
+Reference-Counting
+https://www.autohotkey.com/docs/v1/Objects.htm#Refs
+
+REG_BINARY
+https://www.autohotkey.com/docs/v1/lib/RegRead.htm
+
+REG_DWORD
+https://www.autohotkey.com/docs/v1/lib/RegRead.htm
+
+REG_EXPAND_SZ
+https://www.autohotkey.com/docs/v1/lib/RegRead.htm
+
+REG_MULTI_SZ
+https://www.autohotkey.com/docs/v1/lib/RegRead.htm
+
+REG_SZ
+https://www.autohotkey.com/docs/v1/lib/RegRead.htm
+
+RegDelete
+https://www.autohotkey.com/docs/v1/lib/RegDelete.htm
+
+RegEx Quick Reference
+https://www.autohotkey.com/docs/v1/misc/RegEx-QuickRef.htm
+
+RegEx: Callouts
+https://www.autohotkey.com/docs/v1/misc/RegExCallout.htm
+
+RegEx: Quick Reference
+https://www.autohotkey.com/docs/v1/misc/RegEx-QuickRef.htm
+
+RegEx: SetTitleMatchMode RegEx
+https://www.autohotkey.com/docs/v1/lib/SetTitleMatchMode.htm#RegEx
+
+RegExMatch Object
+https://www.autohotkey.com/docs/v1/lib/RegExMatch.htm#MatchObject
+
+RegExMatch()
+https://www.autohotkey.com/docs/v1/lib/RegExMatch.htm
+
+RegExReplace()
+https://www.autohotkey.com/docs/v1/lib/RegExReplace.htm
+
+Region (WinSet)
+https://www.autohotkey.com/docs/v1/lib/WinSet.htm#Region
+
+RegisterCallback()
+https://www.autohotkey.com/docs/v1/lib/RegisterCallback.htm
+
+registry loop
+https://www.autohotkey.com/docs/v1/lib/LoopReg.htm
+
+RegRead
+https://www.autohotkey.com/docs/v1/lib/RegRead.htm
+
+Regular Expression Callouts
+https://www.autohotkey.com/docs/v1/misc/RegExCallout.htm
+
+regular expressions: Quick Reference
+https://www.autohotkey.com/docs/v1/misc/RegEx-QuickRef.htm
+
+regular expressions: RegExMatch()
+https://www.autohotkey.com/docs/v1/lib/RegExMatch.htm
+
+regular expressions: RegExReplace()
+https://www.autohotkey.com/docs/v1/lib/RegExReplace.htm
+
+regular expressions: SetTitleMatchMode RegEx
+https://www.autohotkey.com/docs/v1/lib/SetTitleMatchMode.htm#RegEx
+
+RegWrite
+https://www.autohotkey.com/docs/v1/lib/RegWrite.htm
+
+Reload
+https://www.autohotkey.com/docs/v1/lib/Reload.htm
+
+remap joystick
+https://www.autohotkey.com/docs/v1/misc/RemapJoystick.htm
+
+remap keys or mouse buttons
+https://www.autohotkey.com/docs/v1/misc/Remap.htm
+
+Remapping Keys
+https://www.autohotkey.com/docs/v1/misc/Remap.htm
+
+remote controls, hand-held
+https://www.autohotkey.com/docs/v1/scripts/index.htm#WinLIRC
+
+remove folder/directory
+https://www.autohotkey.com/docs/v1/lib/FileRemoveDir.htm
+
+Remove method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#Remove
+
+RemoveAt method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#RemoveAt
+
+Rename (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Rename
+
+rename file
+https://www.autohotkey.com/docs/v1/lib/FileMove.htm
+
+resize a window
+https://www.autohotkey.com/docs/v1/lib/WinMove.htm
+
+restart the computer
+https://www.autohotkey.com/docs/v1/lib/Shutdown.htm
+
+Restore (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Restore
+
+Return
+https://www.autohotkey.com/docs/v1/lib/Return.htm
+
+RGB color names
+https://www.autohotkey.com/docs/v1/lib/Progress.htm#colors
+
+RGB colors
+https://www.autohotkey.com/docs/v1/lib/PixelGetColor.htm
+
+Round (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Round
+
+Round()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Round
+
+rounding a number
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Round
+
+RTrim()
+https://www.autohotkey.com/docs/v1/lib/Trim.htm
+
+Run
+https://www.autohotkey.com/docs/v1/lib/Run.htm
+
+Run[Wait]
+https://www.autohotkey.com/docs/v1/lib/Run.htm
+
+RunAs
+https://www.autohotkey.com/docs/v1/lib/RunAs.htm
+
+RunWait
+https://www.autohotkey.com/docs/v1/lib/Run.htm
+
+SB_SetIcon()
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#SB_SetIcon
+
+SB_SetParts()
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#SB_SetParts
+
+SB_SetText()
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#SB_SetText
+
+scan code
+https://www.autohotkey.com/docs/v1/lib/Send.htm#vk
+
+scientific notation
+https://www.autohotkey.com/docs/v1/lib/Format.htm
+
+Script Compatibility
+https://www.autohotkey.com/docs/v1/Compat.htm
+
+Script Showcase
+https://www.autohotkey.com/docs/v1/scripts/index.htm
+
+Scripting Language
+https://www.autohotkey.com/docs/v1/Language.htm
+
+Scripts
+https://www.autohotkey.com/docs/v1/Scripts.htm
+
+Scripts (misc)
+https://www.autohotkey.com/docs/v1/Scripts.htm
+
+Seek method (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#Seek
+
+select file
+https://www.autohotkey.com/docs/v1/lib/FileSelectFile.htm
+
+select folder
+https://www.autohotkey.com/docs/v1/lib/FileSelectFolder.htm
+
+Selected (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#Selected
+
+Send
+https://www.autohotkey.com/docs/v1/lib/Send.htm
+
+Send[Raw|Input|Play|Event]
+https://www.autohotkey.com/docs/v1/lib/Send.htm
+
+SendEvent
+https://www.autohotkey.com/docs/v1/lib/Send.htm#SendEvent
+
+sending data between scripts
+https://www.autohotkey.com/docs/v1/lib/OnMessage.htm#SendString
+
+SendInput
+https://www.autohotkey.com/docs/v1/lib/Send.htm#SendInputDetail
+
+SendLevel
+https://www.autohotkey.com/docs/v1/lib/SendLevel.htm
+
+SendMessage
+https://www.autohotkey.com/docs/v1/lib/PostMessage.htm
+
+SendMode
+https://www.autohotkey.com/docs/v1/lib/SendMode.htm
+
+SendPlay
+https://www.autohotkey.com/docs/v1/lib/Send.htm#SendPlayDetail
+
+SendRaw
+https://www.autohotkey.com/docs/v1/lib/Send.htm
+
+Serial (DriveGet)
+https://www.autohotkey.com/docs/v1/lib/DriveGet.htm#Serial
+
+Set directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#Set
+
+SetBatchLines
+https://www.autohotkey.com/docs/v1/lib/SetBatchLines.htm
+
+SetCapacity method (Object)
+https://www.autohotkey.com/docs/v1/lib/Object.htm#SetCapacity
+
+SetCapsLockState
+https://www.autohotkey.com/docs/v1/lib/SetNumScrollCapsLockState.htm
+
+SetControlDelay
+https://www.autohotkey.com/docs/v1/lib/SetControlDelay.htm
+
+SetDefaultMouseSpeed
+https://www.autohotkey.com/docs/v1/lib/SetDefaultMouseSpeed.htm
+
+SetEnv
+https://www.autohotkey.com/docs/v1/lib/SetEnv.htm
+
+SetEnv (Var = Value)
+https://www.autohotkey.com/docs/v1/lib/SetEnv.htm
+
+SetFormat
+https://www.autohotkey.com/docs/v1/lib/SetFormat.htm
+
+SetKeyDelay
+https://www.autohotkey.com/docs/v1/lib/SetKeyDelay.htm
+
+SetMainIcon directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#SetMainIcon
+
+SetMouseDelay
+https://www.autohotkey.com/docs/v1/lib/SetMouseDelay.htm
+
+SetNumLockState
+https://www.autohotkey.com/docs/v1/lib/SetNumScrollCapsLockState.htm
+
+SetProp directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#SetProp
+
+SetRegView
+https://www.autohotkey.com/docs/v1/lib/SetRegView.htm
+
+SetScrollLockState
+https://www.autohotkey.com/docs/v1/lib/SetNumScrollCapsLockState.htm
+
+SetStoreCapsLockMode
+https://www.autohotkey.com/docs/v1/lib/SetStoreCapslockMode.htm
+
+SetTimer
+https://www.autohotkey.com/docs/v1/lib/SetTimer.htm
+
+SetTitleMatchMode
+https://www.autohotkey.com/docs/v1/lib/SetTitleMatchMode.htm
+
+SetWinDelay
+https://www.autohotkey.com/docs/v1/lib/SetWinDelay.htm
+
+SetWorkingDir
+https://www.autohotkey.com/docs/v1/lib/SetWorkingDir.htm
+
+short file name (8.3 format)
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm#LoopFileShortPath
+
+short-circuit boolean evaluation
+https://www.autohotkey.com/docs/v1/Functions.htm#ShortCircuit
+
+shortcut file
+https://www.autohotkey.com/docs/v1/lib/FileCreateShortcut.htm
+
+Show (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#Show
+
+Show (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Show
+
+Show (GuiControl)
+https://www.autohotkey.com/docs/v1/lib/GuiControl.htm#Show
+
+Show (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Show
+
+ShowDropDown (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#ShowDropDown
+
+Shutdown
+https://www.autohotkey.com/docs/v1/lib/Shutdown.htm
+
+Silent Install/Uninstall
+https://www.autohotkey.com/docs/v1/Program.htm#install
+
+Sin (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Sin
+
+Sin()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Sin
+
+Sin() / Cos() / Tan()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Sin
+
+SingleInstance
+https://www.autohotkey.com/docs/v1/lib/_SingleInstance.htm
+
+size of a file/folder
+https://www.autohotkey.com/docs/v1/lib/FileGetSize.htm
+
+size of a window
+https://www.autohotkey.com/docs/v1/lib/WinGetPos.htm
+
+Sleep
+https://www.autohotkey.com/docs/v1/lib/Sleep.htm
+
+Slider controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#Slider
+
+Sort
+https://www.autohotkey.com/docs/v1/lib/Sort.htm
+
+SoundBeep
+https://www.autohotkey.com/docs/v1/lib/SoundBeep.htm
+
+SoundGet
+https://www.autohotkey.com/docs/v1/lib/SoundGet.htm
+
+SoundGetWaveVolume
+https://www.autohotkey.com/docs/v1/lib/SoundGetWaveVolume.htm
+
+SoundPlay
+https://www.autohotkey.com/docs/v1/lib/SoundPlay.htm
+
+SoundSet
+https://www.autohotkey.com/docs/v1/lib/SoundSet.htm
+
+SoundSetWaveVolume
+https://www.autohotkey.com/docs/v1/lib/SoundSetWaveVolume.htm
+
+space
+https://www.autohotkey.com/docs/v1/lib/IfIs.htm
+
+speed of a script
+https://www.autohotkey.com/docs/v1/lib/SetBatchLines.htm
+
+spinner control (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#UpDown
+
+SplashImage
+https://www.autohotkey.com/docs/v1/lib/Progress.htm
+
+SplashTextOff
+https://www.autohotkey.com/docs/v1/lib/SplashTextOn.htm
+
+SplashTextOn
+https://www.autohotkey.com/docs/v1/lib/SplashTextOn.htm
+
+SplashTextOn/Off
+https://www.autohotkey.com/docs/v1/lib/SplashTextOn.htm
+
+SplitPath
+https://www.autohotkey.com/docs/v1/lib/SplitPath.htm
+
+splitting long lines
+https://www.autohotkey.com/docs/v1/Scripts.htm#continuation
+
+Sqrt (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Sqrt
+
+Sqrt()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Sqrt
+
+Standard (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Standard
+
+standard library
+https://www.autohotkey.com/docs/v1/Functions.htm#lib
+
+standard output (stdout)
+https://www.autohotkey.com/docs/v1/lib/FileAppend.htm
+
+Standard Windows Fonts
+https://www.autohotkey.com/docs/v1/misc/FontsStandard.htm
+
+Start method (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#Start
+
+static
+https://www.autohotkey.com/docs/v1/Functions.htm#static
+
+static variables
+https://www.autohotkey.com/docs/v1/Functions.htm#static
+
+Status (DriveGet)
+https://www.autohotkey.com/docs/v1/lib/DriveGet.htm#Status
+
+StatusBar controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#StatusBar
+
+StatusBarGetText
+https://www.autohotkey.com/docs/v1/lib/StatusBarGetText.htm
+
+StatusBarWait
+https://www.autohotkey.com/docs/v1/lib/StatusBarWait.htm
+
+StatusCD (DriveGet)
+https://www.autohotkey.com/docs/v1/lib/DriveGet.htm#StatusCD
+
+Stop method (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#Stop
+
+StrGet()
+https://www.autohotkey.com/docs/v1/lib/StrGet.htm
+
+string (search for)
+https://www.autohotkey.com/docs/v1/lib/InStr.htm
+
+string: InStr()
+https://www.autohotkey.com/docs/v1/lib/InStr.htm
+
+string: SubStr()
+https://www.autohotkey.com/docs/v1/lib/SubStr.htm
+
+StringCaseSense
+https://www.autohotkey.com/docs/v1/lib/StringCaseSense.htm
+
+StringGetPos
+https://www.autohotkey.com/docs/v1/lib/StringGetPos.htm
+
+StringLeft
+https://www.autohotkey.com/docs/v1/lib/StringLeft.htm
+
+StringLeft/Right
+https://www.autohotkey.com/docs/v1/lib/StringLeft.htm
+
+StringLen
+https://www.autohotkey.com/docs/v1/lib/StringLen.htm
+
+StringLower
+https://www.autohotkey.com/docs/v1/lib/StringLower.htm
+
+StringLower/Upper
+https://www.autohotkey.com/docs/v1/lib/StringLower.htm
+
+StringMid
+https://www.autohotkey.com/docs/v1/lib/StringMid.htm
+
+StringReplace
+https://www.autohotkey.com/docs/v1/lib/StringReplace.htm
+
+StringRight
+https://www.autohotkey.com/docs/v1/lib/StringLeft.htm
+
+strings (concepts)
+https://www.autohotkey.com/docs/v1/Concepts.htm#strings
+
+StringSplit
+https://www.autohotkey.com/docs/v1/lib/StringSplit.htm
+
+StringTrimLeft
+https://www.autohotkey.com/docs/v1/lib/StringTrimLeft.htm
+
+StringTrimLeft/Right
+https://www.autohotkey.com/docs/v1/lib/StringTrimLeft.htm
+
+StringTrimRight
+https://www.autohotkey.com/docs/v1/lib/StringTrimLeft.htm
+
+StringUpper
+https://www.autohotkey.com/docs/v1/lib/StringLower.htm
+
+StrLen()
+https://www.autohotkey.com/docs/v1/lib/StrLen.htm
+
+StrPut()
+https://www.autohotkey.com/docs/v1/lib/StrPut.htm
+
+StrReplace()
+https://www.autohotkey.com/docs/v1/lib/StrReplace.htm
+
+StrSplit()
+https://www.autohotkey.com/docs/v1/lib/StrSplit.htm
+
+structures, via DllCall
+https://www.autohotkey.com/docs/v1/lib/DllCall.htm#struct
+
+Style (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#Style
+
+Style (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#Style
+
+Style (WinGet)
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm#Style
+
+Style (WinSet)
+https://www.autohotkey.com/docs/v1/lib/WinSet.htm#Style
+
+Styles for a window/control
+https://www.autohotkey.com/docs/v1/misc/Styles.htm
+
+styles for GUI command
+https://www.autohotkey.com/docs/v1/misc/Styles.htm
+
+Submit (Gui)
+https://www.autohotkey.com/docs/v1/lib/Gui.htm#Submit
+
+SubStr()
+https://www.autohotkey.com/docs/v1/lib/SubStr.htm
+
+subtract
+https://www.autohotkey.com/docs/v1/lib/EnvSub.htm
+
+Super-global variables
+https://www.autohotkey.com/docs/v1/Functions.htm#SuperGlobal
+
+Suspend
+https://www.autohotkey.com/docs/v1/lib/Suspend.htm
+
+suspend or hibernate
+https://www.autohotkey.com/docs/v1/lib/Shutdown.htm#Suspend
+
+Switch
+https://www.autohotkey.com/docs/v1/lib/Switch.htm
+
+SysGet
+https://www.autohotkey.com/docs/v1/lib/SysGet.htm
+
+Tab (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#Tab
+
+Tab controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#Tab
+
+TabLeft (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#TabLeft
+
+TabRight (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#TabRight
+
+Tan (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Tan
+
+Tan()
+https://www.autohotkey.com/docs/v1/lib/Math.htm#Tan
+
+Tell method (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#Tell
+
+terminate a window
+https://www.autohotkey.com/docs/v1/lib/WinKill.htm
+
+terminate script
+https://www.autohotkey.com/docs/v1/lib/ExitApp.htm
+
+ternary operator (?:)
+https://www.autohotkey.com/docs/v1/Variables.htm#ternary
+
+Text (GuiControl)
+https://www.autohotkey.com/docs/v1/lib/GuiControl.htm#Text
+
+Text controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#Text
+
+text-mode Send
+https://www.autohotkey.com/docs/v1/lib/Send.htm#SendText
+
+Thread
+https://www.autohotkey.com/docs/v1/lib/Thread.htm
+
+Threads
+https://www.autohotkey.com/docs/v1/misc/Threads.htm
+
+Throw
+https://www.autohotkey.com/docs/v1/lib/Throw.htm
+
+time
+https://www.autohotkey.com/docs/v1/lib/IfIs.htm
+
+Timeout property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#Timeout
+
+Timer (timed subroutines)
+https://www.autohotkey.com/docs/v1/lib/SetTimer.htm
+
+times and dates (compare)
+https://www.autohotkey.com/docs/v1/lib/EnvSub.htm
+
+times and dates (math)
+https://www.autohotkey.com/docs/v1/lib/EnvAdd.htm
+
+times and dates (of files)
+https://www.autohotkey.com/docs/v1/lib/FileSetTime.htm
+
+Tip (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Tip
+
+title
+https://ahkscript.github.io/pt/docs/
+
+title of a window
+https://www.autohotkey.com/docs/v1/lib/WinSetTitle.htm
+
+title" data-content="en
+https://www.autohotkey.com/docs/v1/
+
+title" data-content="ko
+https://ahkscript.github.io/ko/docs/
+
+title" data-content="v1
+https://www.autohotkey.com/docs/v1/
+
+title" data-content="v2
+https://www.autohotkey.com/docs/v2/
+
+title" data-content="zh
+https://wyagd001.github.io/zh-cn/docs/
+
+ToggleCheck (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#ToggleCheck
+
+ToggleEnable (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#ToggleEnable
+
+ToolTip
+https://www.autohotkey.com/docs/v1/lib/ToolTip.htm
+
+Top (WinSet)
+https://www.autohotkey.com/docs/v1/lib/WinSet.htm#Top
+
+TransColor (WinGet)
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm#TransColor
+
+TransColor (WinSet)
+https://www.autohotkey.com/docs/v1/lib/WinSet.htm#TransColor
+
+Transform
+https://www.autohotkey.com/docs/v1/lib/Transform.htm
+
+transparency of a window
+https://www.autohotkey.com/docs/v1/lib/WinSet.htm#trans
+
+Transparent (WinGet)
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm#Transparent
+
+Transparent (WinSet)
+https://www.autohotkey.com/docs/v1/lib/WinSet.htm#Transparent
+
+tray icon
+https://www.autohotkey.com/docs/v1/Program.htm#tray-icon
+
+tray menu (customizing)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm
+
+TrayTip
+https://www.autohotkey.com/docs/v1/lib/TrayTip.htm
+
+TreeView controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/TreeView.htm
+
+Trim
+https://www.autohotkey.com/docs/v1/lib/AutoTrim.htm
+
+Trim()
+https://www.autohotkey.com/docs/v1/lib/Trim.htm
+
+Trim() / LTrim() / RTrim()
+https://www.autohotkey.com/docs/v1/lib/Trim.htm
+
+True
+https://www.autohotkey.com/docs/v1/Variables.htm#Boolean
+
+Try
+https://www.autohotkey.com/docs/v1/lib/Try.htm
+
+Tutorial
+https://www.autohotkey.com/docs/v1/Tutorial.htm
+
+Tutorial (quick start)
+https://www.autohotkey.com/docs/v1/Tutorial.htm
+
+TV_Add()
+https://www.autohotkey.com/docs/v1/lib/TreeView.htm#TV_Add
+
+TV_Delete()
+https://www.autohotkey.com/docs/v1/lib/TreeView.htm#TV_Delete
+
+TV_Get()
+https://www.autohotkey.com/docs/v1/lib/TreeView.htm#TV_Get
+
+TV_GetChild()
+https://www.autohotkey.com/docs/v1/lib/TreeView.htm#TV_GetChild
+
+TV_GetCount()
+https://www.autohotkey.com/docs/v1/lib/TreeView.htm#TV_GetCount
+
+TV_GetNext()
+https://www.autohotkey.com/docs/v1/lib/TreeView.htm#TV_GetNext
+
+TV_GetParent()
+https://www.autohotkey.com/docs/v1/lib/TreeView.htm#TV_GetParent
+
+TV_GetPrev()
+https://www.autohotkey.com/docs/v1/lib/TreeView.htm#TV_GetPrev
+
+TV_GetSelection()
+https://www.autohotkey.com/docs/v1/lib/TreeView.htm#TV_GetSelection
+
+TV_GetText()
+https://www.autohotkey.com/docs/v1/lib/TreeView.htm#TV_GetText
+
+TV_Modify()
+https://www.autohotkey.com/docs/v1/lib/TreeView.htm#TV_Modify
+
+TV_SetImageList()
+https://www.autohotkey.com/docs/v1/lib/TreeView.htm#TV_SetImageList
+
+Type (DriveGet)
+https://www.autohotkey.com/docs/v1/lib/DriveGet.htm#Type
+
+Uncheck (Control)
+https://www.autohotkey.com/docs/v1/lib/Control.htm#Uncheck
+
+Uncheck (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#Uncheck
+
+Unicode (Transform)
+https://www.autohotkey.com/docs/v1/lib/Transform.htm#Unicode
+
+Unicode text and clipboard
+https://www.autohotkey.com/docs/v1/lib/Transform.htm
+
+uninitialised variables
+https://www.autohotkey.com/docs/v1/Concepts.htm#uninitialised-variables
+
+Unlock (Drive)
+https://www.autohotkey.com/docs/v1/lib/Drive.htm#Unlock
+
+Until
+https://www.autohotkey.com/docs/v1/lib/Until.htm
+
+UpdateManifest directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#UpdateManifest
+
+UpDown controls (GUI)
+https://www.autohotkey.com/docs/v1/lib/GuiControls.htm#UpDown
+
+URLDownloadToFile
+https://www.autohotkey.com/docs/v1/lib/URLDownloadToFile.htm
+
+UseErrorLevel (Menu)
+https://www.autohotkey.com/docs/v1/lib/Menu.htm#UseErrorLevel
+
+UseHook
+https://www.autohotkey.com/docs/v1/lib/_UseHook.htm
+
+user (run as a different user)
+https://www.autohotkey.com/docs/v1/lib/RunAs.htm
+
+user library
+https://www.autohotkey.com/docs/v1/Functions.htm#lib
+
+UseResourceLang directive (Ahk2Exe)
+https://www.autohotkey.com/docs/v1/misc/Ahk2ExeDirectives.htm#UseResourceLang
+
+Using the Program
+https://www.autohotkey.com/docs/v1/Program.htm
+
+Value method/property (Match)
+https://www.autohotkey.com/docs/v1/lib/RegExMatch.htm#MatchObject
+
+variables
+https://www.autohotkey.com/docs/v1/Variables.htm
+
+Variables and Expressions
+https://www.autohotkey.com/docs/v1/Variables.htm
+
+variables, assigning to
+https://www.autohotkey.com/docs/v1/lib/SetEnv.htm
+
+variables, built-in
+https://www.autohotkey.com/docs/v1/Variables.htm#BuiltIn
+
+variables, comparing them
+https://www.autohotkey.com/docs/v1/lib/IfEqual.htm
+
+variables, ListVars
+https://www.autohotkey.com/docs/v1/lib/ListVars.htm
+
+variables, type of data
+https://www.autohotkey.com/docs/v1/lib/IfIs.htm
+
+variadic functions
+https://www.autohotkey.com/docs/v1/Functions.htm#Variadic
+
+variants (duplicate hotkeys and hotstrings)
+https://www.autohotkey.com/docs/v1/lib/_IfWinActive.htm#variant
+
+VarSetCapacity()
+https://www.autohotkey.com/docs/v1/lib/VarSetCapacity.htm
+
+VerCompare()
+https://www.autohotkey.com/docs/v1/lib/VerCompare.htm
+
+version of a file
+https://www.autohotkey.com/docs/v1/lib/FileGetVersion.htm
+
+virtual key
+https://www.autohotkey.com/docs/v1/lib/Send.htm#vk
+
+Visible (ControlGet)
+https://www.autohotkey.com/docs/v1/lib/ControlGet.htm#Visible
+
+Visible (GuiControlGet)
+https://www.autohotkey.com/docs/v1/lib/GuiControlGet.htm#Visible
+
+VisibleNonText property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#VisibleNonText
+
+VisibleText property (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#VisibleText
+
+volume (changing it)
+https://www.autohotkey.com/docs/v1/lib/SoundSet.htm
+
+Wait (Process)
+https://www.autohotkey.com/docs/v1/lib/Process.htm#Wait
+
+wait (sleep)
+https://www.autohotkey.com/docs/v1/lib/Sleep.htm
+
+wait for a key to be released or pressed
+https://www.autohotkey.com/docs/v1/lib/KeyWait.htm
+
+Wait method (InputHook)
+https://www.autohotkey.com/docs/v1/lib/InputHook.htm#Wait
+
+WaitClose (Process)
+https://www.autohotkey.com/docs/v1/lib/Process.htm#WaitClose
+
+What property (Exception)
+https://www.autohotkey.com/docs/v1/lib/Throw.htm#Exception
+
+Wheel hotkeys for mouse
+https://www.autohotkey.com/docs/v1/Hotkeys.htm#Wheel
+
+Wheel, simulating rotation
+https://www.autohotkey.com/docs/v1/lib/Click.htm
+
+While
+https://www.autohotkey.com/docs/v1/lib/While.htm
+
+While-loop
+https://www.autohotkey.com/docs/v1/lib/While.htm
+
+whitespace
+https://www.autohotkey.com/docs/v1/lib/AutoTrim.htm
+
+wildcards (for files &amp; folders)
+https://www.autohotkey.com/docs/v1/lib/LoopFile.htm
+
+WinActivate
+https://www.autohotkey.com/docs/v1/lib/WinActivate.htm
+
+WinActivateBottom
+https://www.autohotkey.com/docs/v1/lib/WinActivateBottom.htm
+
+WinActivateForce
+https://www.autohotkey.com/docs/v1/lib/_WinActivateForce.htm
+
+WinActive()
+https://www.autohotkey.com/docs/v1/lib/WinActive.htm
+
+Winamp automation
+https://www.autohotkey.com/docs/v1/misc/Winamp.htm
+
+WinClose
+https://www.autohotkey.com/docs/v1/lib/WinClose.htm
+
+window group
+https://www.autohotkey.com/docs/v1/misc/WinTitle.htm#ahk_group
+
+window messages
+https://www.autohotkey.com/docs/v1/misc/SendMessageList.htm
+
+Window Titles
+https://www.autohotkey.com/docs/v1/misc/WinTitle.htm
+
+WinExist()
+https://www.autohotkey.com/docs/v1/lib/WinExist.htm
+
+WinGet
+https://www.autohotkey.com/docs/v1/lib/WinGet.htm
+
+WinGetActiveStats
+https://www.autohotkey.com/docs/v1/lib/WinGetActiveStats.htm
+
+WinGetActiveTitle
+https://www.autohotkey.com/docs/v1/lib/WinGetActiveTitle.htm
+
+WinGetClass
+https://www.autohotkey.com/docs/v1/lib/WinGetClass.htm
+
+WinGetPos
+https://www.autohotkey.com/docs/v1/lib/WinGetPos.htm
+
+WinGetText
+https://www.autohotkey.com/docs/v1/lib/WinGetText.htm
+
+WinGetTitle
+https://www.autohotkey.com/docs/v1/lib/WinGetTitle.htm
+
+WinHide
+https://www.autohotkey.com/docs/v1/lib/WinHide.htm
+
+WinKill
+https://www.autohotkey.com/docs/v1/lib/WinKill.htm
+
+WinLIRC, connecting to
+https://www.autohotkey.com/docs/v1/scripts/index.htm#WinLIRC
+
+WinMaximize
+https://www.autohotkey.com/docs/v1/lib/WinMaximize.htm
+
+WinMenuSelectItem
+https://www.autohotkey.com/docs/v1/lib/WinMenuSelectItem.htm
+
+WinMinimize
+https://www.autohotkey.com/docs/v1/lib/WinMinimize.htm
+
+WinMinimizeAll
+https://www.autohotkey.com/docs/v1/lib/WinMinimizeAll.htm
+
+WinMinimizeAll[Undo]
+https://www.autohotkey.com/docs/v1/lib/WinMinimizeAll.htm
+
+WinMinimizeAllUndo
+https://www.autohotkey.com/docs/v1/lib/WinMinimizeAll.htm
+
+WinMove
+https://www.autohotkey.com/docs/v1/lib/WinMove.htm
+
+WinRestore
+https://www.autohotkey.com/docs/v1/lib/WinRestore.htm
+
+WinSet
+https://www.autohotkey.com/docs/v1/lib/WinSet.htm
+
+WinSetTitle
+https://www.autohotkey.com/docs/v1/lib/WinSetTitle.htm
+
+WinShow
+https://www.autohotkey.com/docs/v1/lib/WinShow.htm
+
+WinSize (via WinMove)
+https://www.autohotkey.com/docs/v1/lib/WinMove.htm
+
+WinTitle
+https://www.autohotkey.com/docs/v1/misc/WinTitle.htm
+
+WinWait
+https://www.autohotkey.com/docs/v1/lib/WinWait.htm
+
+WinWait[Not]Active
+https://www.autohotkey.com/docs/v1/lib/WinWaitActive.htm
+
+WinWaitActive
+https://www.autohotkey.com/docs/v1/lib/WinWaitActive.htm
+
+WinWaitClose
+https://www.autohotkey.com/docs/v1/lib/WinWaitClose.htm
+
+WinWaitNotActive
+https://www.autohotkey.com/docs/v1/lib/WinWaitActive.htm
+
+WM_* (Windows messages)
+https://www.autohotkey.com/docs/v1/misc/SendMessageList.htm
+
+WM_COPYDATA
+https://www.autohotkey.com/docs/v1/lib/OnMessage.htm#SendString
+
+working directory
+https://www.autohotkey.com/docs/v1/lib/SetWorkingDir.htm
+
+wParam
+https://www.autohotkey.com/docs/v1/lib/PostMessage.htm
+
+write file
+https://www.autohotkey.com/docs/v1/lib/FileAppend.htm
+
+Write method (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#Write
+
+WriteLine method (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#WriteLine
+
+WriteNumType method (File)
+https://www.autohotkey.com/docs/v1/lib/File.htm#WriteNum
+
+WS_* (GUI styles)
+https://www.autohotkey.com/docs/v1/misc/Styles.htm
+
+XButton
+https://www.autohotkey.com/docs/v1/KeyList.htm#mouse-advanced
+
+YYYYMMDDHH24MISS
+https://www.autohotkey.com/docs/v1/lib/FileSetTime.htm#YYYYMMDD
+
+{ ... } (block)
+https://www.autohotkey.com/docs/v1/lib/Block.htm
+
+{Blind}
+https://www.autohotkey.com/docs/v1/lib/Send.htm#blind
+
+|
+https://www.autohotkey.com/docs/v1/Variables.htm#bitwise
+
+|=
+https://www.autohotkey.com/docs/v1/Variables.htm#AssignOp
+
+||
+https://www.autohotkey.com/docs/v1/Variables.htm#or
+
+~
+https://www.autohotkey.com/docs/v1/Variables.htm#unary
+
+~=
+https://www.autohotkey.com/docs/v1/Variables.htm#regex
